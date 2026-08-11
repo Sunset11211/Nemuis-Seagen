@@ -33,18 +33,18 @@
     {
         "id": "plain_med_cat_app_to_dead_starclan_newborn",
         "thoughts": [
-            "Is wondering if r_c was a part of the stars last night",
-            "Thought {PRONOUN/m_c/subject} heard r_c's mewls, but it was just the wind",
+            "Is wondering if r_c was a part of the stars above the sea last night",
+            "Thought {PRONOUN/m_c/subject} heard r_c's mewls, but it was just the current",
             "Is questioning who would provide for r_c in StarClan",
-            "Wonders if r_c would have played with the insects in the grass if {PRONOUN/r_c/subject} had time to grow up",
-            "Questions if r_c's spirit exists in the tall grass",
+            "Wonders if r_c would have played with the marine-insects in the grass if {PRONOUN/r_c/subject} had time to grow up",
+            "Questions if r_c's spirit exists in the tall sea-grass",
             "Thought {PRONOUN/m_c/subject} saw r_c's spirit hanging around the nursery tunnel",
             "Wonders if r_c gets to venture out of the tunnels in StarClan",
             "Thought {PRONOUN/m_c/subject} saw r_c playing with the roots of the tree, but sadly shakes off the thought",
             "Was surprised to find r_c's spot in the nursery warm, despite {PRONOUN/r_c/object} being with the stars now",
             "Is pondering if r_c would stay in tunnels or go out and explore the territory in StarClan",
             "Wonders if the newborns in StarClan will ever get to play and run across open fields",
-            "Prays to StarClan that the passed newborn kits get to feel the wind across their pelt"
+            "Prays to StarClan that the passed newborn kits get to feel the current across their pelt"
         ],
         "biome": [
             "Plains"
@@ -75,7 +75,7 @@
             "Helps apply a poultice to a small wound",
             "Is enjoying learning all the herbs a medicine cat needs!",
             "Is memorizing the names of all the herbs",
-            "Is practicing applying cobwebs to wounds",
+            "Is practicing applying sea-cobwebs to wounds",
             "Is sorting out all the old herbs from the den",
             "Makes sure the nests in the medicine den are as comfortable as possible",
             "Is ready to take care of any patients",
@@ -87,7 +87,7 @@
             "Is learning the early signs of infection",
             "Is memorizing all the places catmint grows",
             "Wonders if StarClan will send {PRONOUN/m_c/object} a practice sign before a real one",
-            "Is neatly stacking bundles of herbs after drying",
+            "Is neatly stacking bundles of herbs after sunning them",
             "Helps apply a poultice to a small wound",
             "Is counting the numbers of herbs left",
             "Rounding out rowdy kits from the medicine den",
@@ -149,7 +149,7 @@
         "thoughts": [
             "Wants to help r_c gather fresh herbs",
             "Is watching r_c work",
-            "Asks r_c about the best way to help with bee stings",
+            "Asks r_c about the best way to help with marine-bee stings",
             "Is asking r_c for guidance about a recent dream",
             "Asks r_c how to tell something is a sign from StarClan",
             "Hopes to learn from r_c's expertise",
@@ -223,7 +223,7 @@
         "id": "grumpy_medicine_cat_apprentice",
         "thoughts": [
             "Told {PRONOUN/m_c/poss} Clanmate that they either eat the pungent herbs or don't get healed at all",
-            "Coldly called a Clanmate a mouse-brain for getting injuried so easily",
+            "Coldly called a Clanmate a mouse-brain for getting injured so easily",
             "Bluntly told a Clanmate {PRONOUN/m_c/subject} won't be treating stubborn patients gently",
             "Threatens rowdy kits that {PRONOUN/m_c/subject}'ll throw them far across the camp if they touch fragile herbs again",
             "Smacks anyone that asks {PRONOUN/m_c/object} to check a fake injury",
@@ -255,7 +255,7 @@
         "id": "rebellious_medicine_cat_apprentice",
         "thoughts": [
             "Is a bit skeptical of StarClan's intentions",
-            "Snuck into a rival Clan's territory to steal plants and repot it in c_n's territory for later uses",
+            "Snuck into a rival Clan's territory to steal plants and replant it in c_n's territory for later uses",
             "Hoards yew berries, not for malicious deeds, but for if vile cats try to harm the Clan",
             "Withholds warnings and omens {PRONOUN/m_c/subject} {VERB/m_c/was/were} given from unusual voices",
             "Wants to test out obscured herbs"
@@ -283,9 +283,9 @@
         "thoughts": [
             "Told {PRONOUN/m_c/poss} Clanmates {PRONOUN/m_c/subject} could see dead StarClan cats dancing",
             "Was taste-testing berries",
-            "Proposes dragging the Moonstone to the medicine den",
-            "Asks {PRONOUN/m_c/poss} mentor if cats reincarnate as snails",
-            "Asks {PRONOUN/m_c/poss} mentor if {PRONOUN/m_c/subject} could still be their apprentice if {PRONOUN/m_c/subject} turned into a worm"
+            "Proposes dragging the Moonshell to the medicine den",
+            "Asks {PRONOUN/m_c/poss} mentor if cats reincarnate as sea-snails",
+            "Asks {PRONOUN/m_c/poss} mentor if {PRONOUN/m_c/subject} could still be their apprentice if {PRONOUN/m_c/subject} turned into a marine-worm"
         ],
         "main_trait_constraint": [
             "strange"
@@ -295,9 +295,9 @@
         "id": "childish_medicine_cat_apprentice",
         "thoughts": [
             "Is telling jokes to sick Clanmates to brighten their day",
-            "Covers {PRONOUN/m_c/self} with sticks and plants",
+            "Covers {PRONOUN/m_c/self} with driftwood-sticks and plants",
             "Sheepishly asks {PRONOUN/m_c/poss} mentor which herbs would rub out a skunk scent. No reason.",
-            "Jokingly told r_c {PRONOUN/r_c/subject} will grow antlers from eating berries",
+            "Jokingly told r_c {PRONOUN/r_c/subject} will grow rhinophores from eating berries",
             "Tries to hold in a laugh after giving r_c spicy herbs instead of the correct ones"
         ],
         "main_trait_constraint": [
@@ -321,7 +321,7 @@
         "id": "flamboyant_medicine_cat_apprentice",
         "thoughts": [
             "Proudly claims {PRONOUN/m_c/subject} can see r_c's future yet loudly vows silence.",
-            "Is embellishing the epic tale of how {PRONOUN/m_c/subject} snuck honey from right under a hoard of angry bees",
+            "Is embellishing the epic tale of how {PRONOUN/m_c/subject} snuck honey from right under a hoard of angry marine-bees",
             "Is demanding r_c follow {PRONOUN/m_c/object} into the medicine den for a check up for all to witness",
             "Can distract an unhappy kit with {PRONOUN/m_c/poss} funny antics",
             "Dramatically mimics a grouchy patient",
@@ -353,7 +353,7 @@
         "thoughts": [
             "Brings back a bundle of random herbs sticking out from {PRONOUN/m_c/poss} mouth",
             "Believes {PRONOUN/m_c/subject} will tackle any unexpected sickness with {PRONOUN/m_c/poss} eyes closed",
-            "Is scrambling after herbs floating in the breeze",
+            "Is scrambling after herbs floating in the current",
             "Brags that {PRONOUN/m_c/subject} {VERB/m_c/is/are} never sick while treating patients",
             "Accidently tramples healthy herbs by zooming around"
         ],
