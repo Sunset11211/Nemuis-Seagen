@@ -243,5 +243,13 @@
         "main_trait_constraint": [
             "adventurous"
         ]
-    }
-]
+    },
+    {
+        "id": "loving_shunned",
+        "thoughts": [
+            "Feels extremely guilty", 
+            "Waves their tail at whoever passes by", 
+            "Attempts to clean up camp",
+        ],
+        "main_trait_constraint": [
+            "loving"
