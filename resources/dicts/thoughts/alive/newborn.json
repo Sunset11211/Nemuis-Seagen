@@ -6,7 +6,10 @@
             "Tries to figure out all of the smells around {PRONOUN/m_c/object}",
             "Snoozes peacefully",
             "Tries to open {PRONOUN/m_c/poss} eyes, but it's all blurry",
-            "Head empty"
+            "Head empty",
+            "Flaps their fins around aimlessly whilst mewling",
+            "Trips over their own tail when tryng to open their eyes",
+            "Mewls at Clanmates who swim by"
         ],
         "main_age_constraint": [
             "newborn"
