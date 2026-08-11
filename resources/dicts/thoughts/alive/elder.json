@@ -20,7 +20,7 @@
             "Is feeling rather chipper today",
             "Is snoring loudly in {PRONOUN/m_c/poss} sleep",
             "Is assisting with camp cleanup",
-            "Is enjoying the warm sun in the camp clearing",
+            "Is enjoying the warm sunlight in the camp clearing",
             "Is feeling restless today",
             "Thinks about going on a little jaunt outside camp"
         ]
@@ -36,8 +36,8 @@
             "Is complaining about being cold",
             "Is grateful {PRONOUN/m_c/subject} {VERB/m_c/have/has} lived so long",
             "Is sharing {PRONOUN/m_c/poss} wisdom",
-            "Is being pestered by fleas",
-            "Is predicting rainy weather based on {PRONOUN/m_c/poss} aching bones",
+            "Is being pestered by aquatic-fleas",
+            "Is predicting underwater-rainy weather based on {PRONOUN/m_c/poss} aching bones",
             "Hopes {PRONOUN/m_c/poss} legacy will continue on after {PRONOUN/m_c/poss} death",
             "Is in quite the mood today",
             "Feels too stiff to leave {PRONOUN/m_c/poss} nest today...",
@@ -48,7 +48,7 @@
             "Is feeling rather cross today",
             "Thinks that times have changed for the better since {PRONOUN/m_c/subject} {VERB/m_c/were/was} young",
             "Is recalling something no other cat remembers anymore",
-            "Is grumbling about the weather",
+            "Is grumbling about the underwater-weather",
             "Feels {PRONOUN/m_c/poss} bones creak as {PRONOUN/m_c/subject} {VERB/m_c/walk/walks}"
         ],
         "main_age_constraint": [
@@ -150,7 +150,7 @@
             "Feels like {PRONOUN/m_c/subject} {VERB/m_c/are/is} missing out on adventures",
             "Feels alone in {PRONOUN/m_c/poss} struggles",
             "Is becoming more confident in {PRONOUN/m_c/poss} position in the Clan",
-            "Is enjoying {PRONOUN/m_c/poss} retirement under the sun",
+            "Is enjoying {PRONOUN/m_c/poss} retirement under the sunlight",
             "Occasionally sneaks out to hunt, missing the thrill of the chase",
             "Sits at the edge of the elders' den, watching Clan life with a mix of longing and contentment",
             "Helps {PRONOUN/m_c/poss} older denmates with their ticks",
@@ -162,7 +162,7 @@
             "Thinks about how back in {PRONOUN/m_c/poss} day, kits- oh no, {PRONOUN/m_c/poss} denmates are rubbing off on them!",
             "Gossips with an apprentice about the other elders",
             "Wonders what the latest kittypet gossip is",
-            "Wonders if {PRONOUN/m_c/subject} could get a flower to sprout in the elders' den for some extra decor",
+            "Wonders if {PRONOUN/m_c/subject} could get an aquatic-flower to sprout in the elders' den for some extra decor",
             "Sneaks out of camp in the middle of the night for something or other",
             "Excitedly awaits a Clan meeting, then wonders if this is really what {PRONOUN/m_c/poss} life has come to",
             "Is very opinionated on mundane topics, such as the prettiest looking herb",
@@ -282,7 +282,7 @@
             "Wonders if elders feel the same way about aching joints",
             "Sneaks out of camp for some alone time",
             "Is being snappy about {PRONOUN/m_c/poss} exercises",
-            "Enjoyed a walk around the camp with r_c!",
+            "Enjoyed a swim around the camp with r_c!",
             "Is the reigning moss-ball champion, and everyone knows it"
         ],
         "perm_conditions": {
@@ -498,7 +498,7 @@
     {
         "id": "deaf_gen_retired_to_alive_gen",
         "thoughts": [
-            "Idly feels the thumps of {PRONOUN/m_c/poss} Clanmates' pawsteps on the ground",
+            "Idly feels the swishing of {PRONOUN/m_c/poss} Clanmates' tail in the water",
             "Has learned to feel vibrations through the ground",
             "Is teaching r_c tail signals",
             "Tries to read r_c's posture",
