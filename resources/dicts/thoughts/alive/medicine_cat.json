@@ -5,14 +5,14 @@
             "Heads out of Clan territory to look for new herbs",
             "Purposefully plants herbs in hard-to-reach areas",
             "Is exploring unclaimed lands while searching for herbs",
-            "Climbs a tree to gather alder bark instead of clawing the trunk",
+            "Climbs a land-tree to gather alder bark instead of clawing the trunk",
             "Thinks about visiting StarClan just to explore their hunting grounds",
             "Asks the deputy to go on patrol",
             "Begs the leader to give {PRONOUN/m_c/object} the bounciest kit as {PRONOUN/m_c/poss} apprentice",
             "Is showing the kits herbs by taking them on adventures in the territory",
             "Helps the leader with their duties while the deputy is on patrol",
-            "Offers to help the queens with badger rides for the kits",
-            "Uses extra herbs just to go gather more"
+            "Offers to help the queens with marine-badger rides for the kits",
+            "Uses extra herbs just to go gather more"8
         ],
         "main_trait_constraint": [
             "adventurous"
@@ -96,7 +96,7 @@
         "id": "childish_medicine_cat",
         "thoughts": [
             "Bounces excitedly at the half-moon meeting",
-            "Plays with some wind-swept catmint"
+            "Plays with some current-swept catmint"
         ],
         "main_trait_constraint": [
             "childish"
@@ -108,7 +108,7 @@
             "Loudly proclaims {PRONOUN/m_c/subject} {VERB/m_c/have/has} recieved a vision but won't tell about it",
             "Is making faces behind the deputy's back to entertain an injured apprentice",
             "Organizes the herbs according to {PRONOUN/m_c/poss} favorite colors",
-            "Stares at a harmless blue butterfly before yowling about it being an evil omen for all to hear",
+            "Stares at a harmless blue marine-butterfly before yowling about it being an evil omen for all to hear",
             "Bursts into camp overdramatically after being called back to take care of a thorn in a paw",
             "Squeals when {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} sneezed on",
             "Spends ages washing up after being sneezed on by a patient",
@@ -170,7 +170,7 @@
     {
         "id": "daring_medicine_cat",
         "thoughts": [
-            "Steals catmint from a Twoleg garden"
+            "Steals land-catmint from a Twoleg garden"
         ],
         "main_trait_constraint": [
             "daring"
@@ -413,7 +413,7 @@
         "thoughts": [
             "Is looking for herbs",
             "Is organizing the herb stores",
-            "Is drying some herbs",
+            "Is letting some herbs lay out in the sun",
             "Is interpreting an omen",
             "Is interpreting a prophecy",
             "Hopes for a message from StarClan soon",
@@ -423,7 +423,7 @@
             "Wishes {PRONOUN/m_c/subject} had an extra set of paws",
             "Is reciting the names of herbs aloud",
             "Was startled awake in the wee hours by a vivid dream",
-            "Is running low on mouse bile",
+            "Is running low on aqua-mouse bile",
             "Plans to go out gathering herbs today",
             "Is looking forward to the half-moon meeting",
             "Is struggling to remember all of the names of herbs",
@@ -438,7 +438,8 @@
     {
         "id": "med_cat_alive_apprentice",
         "thoughts": [
-            "Is thinking about taking on a new apprentice"
+            "Is thinking about taking on a new apprentice",
+            "Is wondering if r_c would make a good medicine cat"
         ],
         "random_status_constraint": [
             "apprentice",
