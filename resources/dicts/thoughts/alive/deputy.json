@@ -90,10 +90,10 @@
         "id": "strange_deputy_to_gen",
         "thoughts": [
             "Accidentally assigns the same cat to three patrols",
-            "Insists a hunting patrol needs to only bring back mice",
+            "Insists a hunting patrol needs to only bring back aqua-mice",
             "Goes missing and comes back smelling like garlic",
             "Is making odd noises",
-            "Giggles at the thought of a bird trying to swim"
+            "Giggles at the thought of an aquatic-bird trying to fly above the ocean"
         ],
         "main_trait_constraint": [
             "strange"
@@ -165,8 +165,8 @@
     {
         "id": "nervous_deputy",
         "thoughts": [
-            "Is fretting over a recent increase in fox sightings near the camp",
-            "Feels a twinge of worry about an approaching storm",
+            "Is fretting over a recent increase in aqua-fox sightings near the camp",
+            "Feels a twinge of worry about an approaching underwater-storm",
             "Is overthinking a recent encounter with a rival Clan",
             "Is stressing over why {PRONOUN/m_c/subject} became deputy",
             "Was overthinking countless battles {PRONOUN/m_c/subject} must create",
@@ -196,7 +196,7 @@
             "Believes {PRONOUN/m_c/poss} leader only picked {PRONOUN/m_c/object} as deputy for a laugh",
             "Grimaces as Clanmates ask {PRONOUN/m_c/object} for advice",
             "Wants to let {PRONOUN/m_c/poss} pelt down",
-            "Was sitting out in a thunderstorm, deep in thought",
+            "Was sitting out in a underwater-thunderstorm, deep in thought",
             "Was overthinking worse case scenarios that would bring end to c_n",
             "Believes {PRONOUN/m_c/subject} will die before becoming leader"
         ],
@@ -239,7 +239,7 @@
             "Has a permanent stone face",
             "Snaps at slothful cats refusing to wake up for morning patrols",
             "Didn't give a rogue a warning before batting their muzzle for trespassing",
-            "Communicate with grunts and piercing stares",
+            "Communicates with grunts and piercing stares",
             "Has little patience for r_c right now",
             "Is giving an apprentice falling behind firm, but helpful advice",
             "Orders the hunting patrol to go back out and catch prey that isn't meager",
@@ -287,7 +287,7 @@
             "Was criticized for leading a patrol into a predator's den without a plan",
             "Is imagining dangerous predators to fight while bored",
             "Took a patrol an alternative route to explore more",
-            "Is creating a risky patrol to hunt down a fox scented nearby"
+            "Is creating a risky patrol to hunt down an aqua-fox scented nearby"
         ],
         "main_trait_constraint": [
             "daring"
@@ -300,7 +300,7 @@
             "Is willing to punish codebreakers however {PRONOUN/m_c/subject} see fit",
             "Doesn't like to stray from {PRONOUN/m_c/poss} familiarities",
             "Is enforcing that a disobedient cat go without food for the duration of the day",
-            "Wants a hunting patrol to have an abundant of prey in every mouth",
+            "Wants a hunting patrol to have an abundance of prey in every mouth",
             "Is stern in making sure apprentices' training is flawless to {PRONOUN/m_c/object}",
             "Is reminding Clanmates there will be direct consequences if the Warrior Code isn't heed",
             "Is giving r_c direct orders"
