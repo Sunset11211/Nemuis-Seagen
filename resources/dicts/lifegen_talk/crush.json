@@ -108,7 +108,7 @@
             "Ah - maybe I just gotta face it, y_c. There's no way I'm gonna end up with their_crush, not in a million moons.",
             "Why would a cat like {PRONOUN/t_c/object} ever settle down with a cat like me? It just wouldn't make any sense.",
             "Maybe I just gotta move on and -- Oh, hang on, {PRONOUN/t_c/subject}{VERB/t_c/'re/'s} coming over here!",
-            "Oh - Oh, hey, their_crush! Yeah, sure, I can come on a walk with you tonight, when are you free?",
+            "Oh - Oh, hey, their_crush! Yeah, sure, I can come on a swim with you tonight, when are you free?",
             "[You roll your eyes. t_c is hopeless!]"
         ]
     ],
@@ -143,8 +143,8 @@
             "[t_c walks over to you with a plump rabbit.]",
             "Hey, y_c!",
             "I saw you stealing glances at your_crush earlier. You should ask {PRONOUN/your_crush/object} to share this freshkill with you.",
-            "Oh come on, that crush of yours is obvious! Don't be such a scaredy-cat and walk over to {PRONOUN/your_crush/object}.",
-            "[t_c smiles encouragingly at you as you walk over to your_crush. You ought to thank {PRONOUN/t_c/object} later.]"
+            "Oh come on, that crush of yours is obvious! Don't be such a scaredy-cat and swim over to {PRONOUN/your_crush/object}.",
+            "[t_c smiles encouragingly at you as you swim over to your_crush. You ought to thank {PRONOUN/t_c/object} later.]"
         ]
     ],
     "apprentice_confront_yourcrush": [
@@ -208,7 +208,7 @@
             "they_went_blind"
         ],
         [
-            "Hey, flea-brain! Wanna go on a walk later?",
+            "Hey, marine-flea-brain! Wanna go on a swim later?",
             "[You tell t_c that you'd love to, but you already have plans with your_crush.]",
             "your_crush, huh?",
             "I gotta say, the two of you are spending an awful lot of time together lately ...",
@@ -278,7 +278,7 @@
         [
             "What's wrong, y_c? Romantic troubles? Is your_crush getting you down?",
             "Ah, don't let it worry you, even for one second. You're so amazing, y_c ... any cat in this Clan would be lucky to have you.",
-            "And if your_crush can't see that, {PRONOUN/your_crush/subject} must be the most mouse-brained cat on this entire planet!",
+            "And if your_crush can't see that, {PRONOUN/your_crush/subject} must be the most aqua-mousebrained cat on this entire planet!",
             "In fact, I'm sure there's plenty of cats who would do just about anything to be with you, but are too afraid to say it ...",
             "Ahem.",
             "[t_c blushes and glances away.]"
@@ -473,7 +473,7 @@
             "Psh, yeah, no doubt they're sick. {PRONOUN/your_crush/subject/CAP}{VERB/your_crush/'ve/'s}  got a horrible case of y_c fever.",
             "[You blush, looking away. Surely your_crush doesn't actually feel that way about you ... right?]",
             "[Sensing your hesitation, t_c rolls {PRONOUN/t_c/poss} eyes.]",
-            "I swear, y_c, you're so blind, there has got to be some mole blood in your ancestry.",
+            "I swear, y_c, you're so blind, there has got to be some aquatic-mole blood in your ancestry.",
             "If I have to see the two of you pining after each other any longer, I just might have to take matters into my own paws!"
         ]
     ],
@@ -489,7 +489,7 @@
         [
             "[As you sit next to t_c, you smell your_crush approach and lay down next to you.]",
             "[{PRONOUN/your_crush/poss/CAP} scent is comforting, and when {PRONOUN/your_crush/poss} fur brushes yours, you feel your face grow hot.]",
-            "[t_c smacks your haunches teasingly with {PRONOUN/t_c/poss} tail, and you reach out a hind leg to kick {PRONOUN/t_c/object}. Against you, your_crush's body shakes with laughter.]"
+            "[t_c smacks your haunches teasingly with {PRONOUN/t_c/poss} tail, and you reach out a paw to kick {PRONOUN/t_c/object}. Against you, your_crush's body shakes with laughter.]"
         ]
     ]
 }
