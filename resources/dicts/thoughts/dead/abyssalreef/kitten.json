@@ -21,7 +21,7 @@
             "Misses being warm",
             "Thinks about what {PRONOUN/m_c/poss} warrior name might have been",
             "Knows that {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} the bad cat in the nursery stories",
-            "Mewls into the endless black",
+            "Mewls into the endless abyss",
             "Is trying to remember a song that was sung in the nursery",
             "Is failing to calm {PRONOUN/m_c/self}",
             "Is trying to look brave",
@@ -59,7 +59,7 @@
      {
         "id": "dead_kit_to_dead_parent",
         "thoughts": [
-            "Is upset with r_c for leaving {PRONOUN/m_c/object} to the dark",
+            "Is upset with r_c for leaving {PRONOUN/m_c/object} to the abyss",
             "Wonders why stars shine in r_c's fur and not {PRONOUN/m_c/inposs}",
             "Wonders if r_c hates {PRONOUN/m_c/object}",
             "Debates asking r_c what {PRONOUN/m_c/subject} did wrong",
