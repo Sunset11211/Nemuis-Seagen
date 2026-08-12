@@ -12,9 +12,9 @@
             "Feels alone",
             "Is recovering from an illness",
             "Is exploring",
-            "Caught a particularly large bird",
-            "Caught a particularly large squirrel",
-            "Caught a particularly large rabbit",
+            "Caught a particularly large aquatic-bird",
+            "Caught a particularly large aquatic-squirrel",
+            "Caught a particularly large aquatic-rabbit",
             "Is humming a tune",
             "Got chased off by a border patrol recently",
             "Heard some strange stories about starry ancestors living in the sky",
@@ -39,7 +39,7 @@
     {
         "id": "loner_kitten_/_adolescent_thoughts",
         "thoughts": [
-            "Is currently trying to figure out how to catch a bird"
+            "Is currently trying to figure out how to catch an aquatic-bird"
         ],
         "main_age_constraint": [
             "kitten",
@@ -49,20 +49,20 @@
     {
         "id": "loner_adolescent_thoughts",
         "thoughts": [
-            "Is currently trying to figure out how to catch a squirrel",
-            "Is currently trying to figure out how to catch a rabbit",
+            "Is currently trying to figure out how to catch an aquatic-squirrel",
+            "Is currently trying to figure out how to catch an aquatic-rabbit",
             "Is missing {PRONOUN/m_c/poss} parents",
             "Regrets missing an easy catch",
-            "Learned how slippery the edge of a river can be the hard way",
-            "Is playing in the fallen leaves",
+            "Learned how slippery the edge of a deep-water-river can be the hard way",
+            "Is playing in the fallen kelp-leaves",
             "Has been desperately trying to ignore {PRONOUN/m_c/poss} possibly bleak future",
-            "Is licking {PRONOUN/m_c/poss} bruises after a failed attempt at catching a mouse",
+            "Is licking {PRONOUN/m_c/poss} bruises after a failed attempt at catching an aqua-mouse",
             "Is asking {PRONOUN/m_c/self} if becoming a kittypet would be an easier life",
             "Is trying not to feel overwhelmingly lonely",
             "Is learning about the Clans",
             "Thinks Clan cats are strange",
             "Is in awe hearing the stories about the Clans",
-            "Is imagining an epic life where {PRONOUN/m_c/subject} {VERB/m_c/are/is} a legendary wander in these lands",
+            "Is imagining an epic life where {PRONOUN/m_c/subject} {VERB/m_c/are/is} a legendary wanderer in these lands",
             "Is marking random locations with {PRONOUN/m_c/poss} claws to remember as a potential hideout",
             "Turns up {PRONOUN/m_c/poss} nose when another loner tries to give {PRONOUN/m_c/object} directions",
             "Collects various items {PRONOUN/m_c/subject} {VERB/m_c/find/finds} beautiful and interesting",
