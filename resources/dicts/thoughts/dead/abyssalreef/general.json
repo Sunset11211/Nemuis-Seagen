@@ -45,7 +45,7 @@
             "Thought {PRONOUN/m_c/subject} heard the voice of a loved one",
             "Has been behaving erratically recently",
             "Yearns to taste fresh-kill again",
-            "Yearns to feel the sun on {PRONOUN/m_c/poss} pelt again",
+            "Yearns to feel the sunlight on {PRONOUN/m_c/poss} pelt again",
             "Is whispering lies into a living cat's ear",
             "Gingerly checks a recent wound",
             "Feels the shadows watching {PRONOUN/m_c/object}",
@@ -55,7 +55,9 @@
             "Can still feel {PRONOUN/m_c/poss} wounds that killed {PRONOUN/m_c/object}",
             "Is discussing future plans with the other Abyssal Reef cats",
             "Is eerily staring at the black abyss",
-            "Is yowling into the ebony void that {PRONOUN/m_c/subject} {VERB/m_c/don't/doesn't} belong here"
+            "Is yowling into the ebony void that {PRONOUN/m_c/subject} {VERB/m_c/don't/doesn't} belong here",
+            "Swims around aimlessly, looking for someone to ambush",
+            "Wonders if they could repurpose their shedded scales as a weapon"
         ]
     },
     {
