@@ -39,7 +39,7 @@
         "thoughts": [
             "Is eating kittypet kibble",
             "Stole some random kittypet's food",
-            "Is eating dog food {PRONOUN/m_c/subject} found",
+            "Is eating land-dog food {PRONOUN/m_c/subject} found",
             "Is putting {PRONOUN/m_c/poss} own scent on c_n's clearly marked borders"
         ],
         "main_trait_constraint": [
@@ -104,7 +104,7 @@
             "Has been going missing quite a lot lately",
             "Sniffs for {PRONOUN/m_c/poss} next meal",
             "Wonders if {PRONOUN/m_c/subject} can find a warm place to sleep tonight",
-            "Was chased by a fox recently",
+            "Was chased by an aqua-fox recently",
             "Wishes {PRONOUN/m_c/subject} {VERB/m_c/were/was} in a warm nest",
             "Wonders what it's like to live with Twolegs",
             "Is struggling to survive on {PRONOUN/m_c/poss} own",
@@ -117,7 +117,7 @@
     {
         "id": "kitten_rogue_thoughts",
         "thoughts": [
-            "Is currently trying to figure out how to catch a bird"
+            "Is currently trying to figure out how to catch an aquatic-bird"
         ],
         "main_age_constraint": [
             "kitten"
