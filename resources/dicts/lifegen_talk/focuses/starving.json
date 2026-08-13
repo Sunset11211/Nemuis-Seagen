@@ -11,7 +11,7 @@
         ],
         [
             "...",
-            "Oh...? Is that mouse for me?",
+            "Oh...? Is that aqua-mouse for me?",
             "[t_c stares longingly at the prey, eyes dull with hunger.]",
             "No, you take it, young'un. It's not long before I take my place in StarClan, and you need your strength."
         ]
@@ -67,8 +67,8 @@
         ],
         [
             "...",
-            "[t_c is staring up at the trees, scanning the branches.]",
-            "You know, y_c. It seems this hunger is affecting everything. The grass seems dry, and the little birds that normally sing above our camp haven't appeared.",
+            "[t_c is staring up at the kelp-trees, scanning the driftwood-branches caught in them.]",
+            "You know, y_c. It seems this hunger is affecting everything. The sea-grass seems dry, and the little aquatic-birds that normally sing above our camp haven't appeared.",
             "It's demoralising. I don't know how we'll go on, y_c."
         ]
     ],
@@ -80,7 +80,7 @@
             "focus"
         ],
         [
-            "I'd give anything for a nice mouse right now. StarClan, I'd even settle for a stale one! Anything to get rid of this hunger..."
+            "I'd give anything for a nice aqua-mouse right now. StarClan, I'd even settle for a stale one! Anything to get rid of this hunger..."
         ]
     ],
     "starving_queen": [
@@ -150,7 +150,7 @@
             "focus"
         ],
         [
-            "[t_c drops a small mouse at your paws, nosing it towards you.]",
+            "[t_c drops a small aqua-mouse at your paws, nosing it towards you.]",
             "Eat. We all need to keep our strength up, especially in times like these."
         ]
     ],
@@ -162,7 +162,7 @@
         ],
         [
             "Oh, y_c.",
-            "[t_c comes trotting up to you, worry carved into {PRONOUN/t_c/poss} face.]",
+            "[t_c comes swim-trotting up to you, worry carved into {PRONOUN/t_c/poss} face.]",
             "You know... I didn't expect that you would fall victim to hunger. You always seemed too strong for it.",
             "Please... just hold on for a little bit longer. I'll make sure that the next fresh kill goes to you."
         ]
@@ -202,9 +202,9 @@
             "Any",
             "focus"
         ],
-        [
+        [z
             "[t_c trudges back into camp with {PRONOUN/t_c/poss} head and tail lowered in defeat. {PRONOUN/t_c/poss/CAP} dull eyes meet yours and {PRONOUN/t_c/subject} {VERB/t_c/shake/shakes} {PRONOUN/t_c/poss} head.]",
-            "There's not even so much as a mouse out there... I'm sorry. Let's try not to worry though, we have to catch at least something sooner or later!",
+            "There's not even so much as an aqua-mouse out there... I'm sorry. Let's try not to worry though, we have to catch at least something sooner or later!",
             "...",
             "Right?"
         ]
@@ -235,9 +235,9 @@
         ],
         [
             "Y'know, I heard that if you imagine a meal in vivid enough detail, you can trick your brain into thinking you've eaten!",
-            "Okay, so ... I'm imagining a mouse still warm from the hunting patrol, with super tender flesh.",
+            "Okay, so ... I'm imagining an aqua-mouse still warm from the hunting patrol, with super tender flesh.",
             "Now I'm imagining a ginormous fish shimmering with scales!",
-            "Now, I'm imagining one -- no, two -- no, ten squirrels, topped off with a vole or two, and maybe a sparrow to finish it all off!",
+            "Now, I'm imagining one -- no, two -- no, ten aquatic-squirrels, topped off with a water-vole or two, and maybe an aquatic-sparrow to finish it all off!",
             "... Man. If anything, all that did was make me even hungrier."
         ]
     ],
@@ -253,7 +253,7 @@
             "focus"
         ],
         [
-            "[t_c noses a small sparrow towards you.]",
+            "[t_c noses a small aquatic-sparrow towards you.]",
             "Please, t_c, you have to eat something.",
             "It's very moving to see your dedication to the Clan during this period of hardship, but no cat can go without forever.",
             "Your life is not worth any less than the rest of ours. c_nClan needs you healthy.",
@@ -270,7 +270,7 @@
             "focus"
         ],
         [
-            "[t_c drops a tiny mouse at your paws and looks away shyly.]",
+            "[t_c drops a tiny aqua-mouse at your paws and looks away shyly.]",
             "I know it's not much, but ... the hunting patrol couldn't bring much back. It's all I could manage to save for you.",
             "What about me?",
             "[t_c looks away.]",
@@ -302,7 +302,7 @@
             "[You look over to see t_c coming over to you, a bundle of herbs wrapped in a leaf in {PRONOUN/t_c/poss} mouth. {PRONOUN/t_c/subject/CAP} gently {VERB/t_c/place/places} the package down next to you.]",
             "Listen, I've noticed that... well you're not doing okay. This starvation is awful for the body and the mind. I've been thinking about it since yesterday, and I decided to make some herb bundles.",
             "They're normally for traveling, but I suppose in a morbid sense this is its own kind of adventure. Please will you eat them? I've made a bundle for all the cats that need it, so you don't need to worry that you're taking herbs off of someone else.",
-            "In case you're wondering, it's a mixture of honey, chamomile and willow herb, and wrapped in a laurel leaf.",
+            "In case you're wondering, it's a mixture of sea-honey, aquatic-chamomile and willow herb, and wrapped in a sea-laurel leaf.",
             "... there we go. Thank you y_c. Hopefully there will be more fresh-kill soon."
         ]
     ],
@@ -318,7 +318,7 @@
             "[You look over to see t_c coming over to you, a bundle of herbs wrapped in a leaf in {PRONOUN/t_c/poss} mouth. {PRONOUN/t_c/subject/CAP} gently {VERB/t_c/place/places} the package down next to you.]",
             "Listen, I've noticed that... well you're not doing okay. This starvation is awful for the body and the mind. I've been thinking about it since yesterday, and I decided to make some herb bundles.",
             "They're normally for traveling, but I suppose in a morbid sense this is its own kind of adventure. Please will you eat them? I've made a bundle for all the cats that need it, so you don't need to worry that you're taking herbs off of someone else.",
-            "In case you're wondering, it's a mixture of honey, chamomile and willow herb, and wrapped in a laurel leaf.",
+            "In case you're wondering, it's a mixture of sea-honey, aquatic-chamomile and willow herb, and wrapped in a sea-laurel leaf.",
             "... there we go. Thank you y_c. Hopefully there will be more fresh-kill soon."
         ]
     ],
@@ -346,7 +346,7 @@
         ],
         [
             "Psst, y_c.",
-            "[You gather the strength to look at t_c, and notice that {PRONOUN/t_c/subject}  {VERB/t_c/have/has} somehow found a skinny vole.",
+            "[You gather the strength to look at t_c, and notice that {PRONOUN/t_c/subject}  {VERB/t_c/have/has} somehow found a skinny water-vole.",
             "It was supposed to be l_n's... but you need it more."
         ]
     ],
@@ -374,7 +374,7 @@
         [
             "[Since the Clan has been so low on prey recently, you've had even rarer meals than you would have before. The days spent stuck in camp are long and hard. And yet...]",
             ".. y_c? Are you there?",
-            "[t_c approaches you with a small, scrawny mouse in {PRONOUN/t_c/poss} jaws, looking around to check that no cat notices when {PRONOUN/t_c/subject} drop it in front of you.]",
+            "[t_c approaches you with a small, scrawny aqua-mouse in {PRONOUN/t_c/poss} jaws, looking around to check that no cat notices when {PRONOUN/t_c/subject} drop it in front of you.]",
             "You have to eat too. Some of our Clanmates don't think it's worth it to feed you anymore.",
             "But I've seen the real you, y_c, I know what kind of cat you are, and you need to survive this.",
             "I believe in you, and I know that you'll hold on."
