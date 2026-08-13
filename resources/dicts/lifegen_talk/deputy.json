@@ -103,7 +103,7 @@
             "y_c! Border patrol. I've already told the rest of the patrol to gather next to the entrance.",
             "[You try to explain that you were planning to do something, but r_w is free to patrol.]",
             "You had plans? Too bad. You're being sent on this patrol whether you like it or not.",
-            "[As you walk over to your patrol's group, you hear t_c call out.]",
+            "[As you swim over to your patrol's group, you hear t_c call out.]",
             "Make sure you don't make a fool of yourself along the o_cClan border! We wouldn't want them thinking we're weak."
         ]
     ],
@@ -114,7 +114,7 @@
             "you_blind"
         ],
         [
-            "I went on a hunting patrol with neutral_r_w the other day and found THE cutest mouse I think I've ever seen. It had big, innocent eyes and it was snacking on a blackberry!",
+            "I went on a hunting patrol with neutral_r_w the other day and found THE cutest aqua-mouse I think I've ever seen. It had big, innocent eyes and it was snacking on a blackberry!",
             "It was large, so neutral_r_w wanted to catch it for c_nClan, but I couldn't bear to see it killed.",
             "I, ah, ended up scaring it off to save it from being caught. That... really didn't make neutral_r_w happy at all. But it was worth it! You should've seen the little thing!"
         ]
@@ -129,7 +129,7 @@
         ],
         [
             "Sigh... hi, y_c.",
-            "Hm? Yeah, I just got back from a hunting patrol... I utterly embarrassed myself. I had a mouse literally walk into my paws and I still failed to grab it.",
+            "Hm? Yeah, I just got back from a hunting patrol... I utterly embarrassed myself. I had an aqua-mouse literally walk into my paws and I still failed to grab it.",
             "... Hm. Yes, that's true. I'm not going to always succeed, the best thing I can do is get back up and get back to it.",
             "You're right, y_c. You're always right. Thank you."
         ]
@@ -150,7 +150,7 @@
             "Get up, y_c! We gotta go on a special patrol to check the o_cClan border!",
             "Of course I'm serious, mouse-brain! Are you really gonna make me break it down for you?",
             "The leader gave me this assignment, and told me to pick the cat in the Clan I trust the most to accompany me on it. Lo and behold, that's you!",
-            "Now, c'mon, lazybones! We've got a long walk ahead of us!"
+            "Now, c'mon, lazybones! We've got a long swim ahead of us!"
         ]
     ],
     "medapp_busy1c": [
@@ -310,7 +310,7 @@
             "you_blind"
         ],
         [
-            "You're a walking reminder of the darkness that exists."
+            "You're a living reminder of the darkness that exists."
         ]
     ],
     "dep_10": [
@@ -503,7 +503,7 @@
             "non-related"
         ],
         [
-            "Hey, mouse-brain! Watch where you're going!",
+            "Hey, aqua-mousebrain! Watch where you're going!",
             "Wait, I recognize you. You're one of the new kits, right? Shouldn't you be in the nursery?",
             "Hmph. Whatever. Just stay outta the real warriors' way, before someone squishes you."
         ]
@@ -522,7 +522,7 @@
         ],
         [
             "Hey there, y_c! Not bad weather today, hm?",
-            "Sun on my pelt, wind in my fur ... Could you imagine being a kittypet and having to be cooped up in a Twoleg nest all day? I think I would go crazy!",
+            "Sun on my pelt, current in my fur ... Could you imagine being a kittypet and having to be cooped up in a Twoleg nest on land all day? I think I would go crazy!",
             "Just another reason why it's great to be a Clan cat."
         ]
     ],
@@ -559,7 +559,7 @@
             "You ... already sent one out earlier?",
             "Well, why in StarClan's name would you not tell me that?!",
             "Now I gotta ... Just ... Ugh!",
-            "[t_c stalks away muttering curses. You can't tell if you resent {PRONOUN/t_c/poss} disrespectful attitude, or respect it.]"
+            "[t_c swim-stalks away muttering curses. You can't tell if you resent {PRONOUN/t_c/poss} disrespectful attitude, or respect it.]"
         ]
     ],
     "assertive_elder_5": [
@@ -622,7 +622,7 @@
         ],
         [
             "Hey, furbag. I brought you something!",
-            "[t_c lays a colorful feather at your paws.]",
+            "[t_c lays a colorful aquatic-feather at your paws.]",
             "I know this is your favorite color, and you miss exploring the territory. So I knew I just had to bring it to you.",
             "Yeah, yeah, don't get all soft on me, hehe. Wanna grab a meal together?"
         ]
@@ -772,7 +772,7 @@
         [
             "*Huff**Huff* Hey, y_c! What's happening? I was just doing some sparring.",
             "I heard that you aren't allowed to fight for the Clan, 'cause it'd make you biased in your mediation - man, that must take some restraint.",
-            "If it were me, I'd want to claw the ears off of half the mouse-brains in this Clan! Haha!"
+            "If it were me, I'd want to claw the ears off of half the aqua-mousebrains in this Clan! Haha!"
         ]
     ],
     "assertivewarrior_med7": [
@@ -859,7 +859,7 @@
         ],
         [
             "How's it going, mini-medicine cat? Herbal life treating you well?",
-            "Don't worry, I'm not going to run heaarirst into trouble and injure myself today.",
+            "Don't worry, I'm not going to run headfirst into trouble and injure myself today.",
             "As for tomorrow? Who knows!"
         ]
     ],
@@ -903,10 +903,10 @@
         ],
         [
             "Hey, y_c! I brought you back something from my last patrol. Take a look!",
-            "[t_c drops a colorful feather at your paws.]",
-            "You wanna know how I found it? Oh, it's a crazy story. I was on a hunting patrol, when I found this huge bird, and ...",
+            "[t_c drops a colorful aquatic-feather at your paws.]",
+            "You wanna know how I found it? Oh, it's a crazy story. I was on a hunting patrol, when I found this huge aquatic-bird, and ...",
             "[t_c regales you with a daring story full of thrills, twists, and turns.]",
-            "... And then I got the feather! Quite the adventure, no?",
+            "... And then I got the aquatic-feather! Quite the adventure, no?",
             "Just wait until you're old enough. You'll be having plenty of adventures of your own before you know it!"
         ]
     ],
@@ -938,7 +938,7 @@
         ],
         [
             "Hey, furbag. I brought you something!",
-            "[t_c lays a colorful feather at your paws.]",
+            "[t_c lays a colorful aquatic-feather at your paws.]",
             "I know this is your favorite color, and you miss exploring the territory. So I knew I just had to bring it to you.",
             "Yeah, yeah, don't get all soft on me, hehe. Wanna grab a meal together?"
         ]
@@ -1128,7 +1128,7 @@
             "you_blind"
         ],
         [
-            "Some cats criticize me for being too reckless in my decision making ... fox-dung, I say!",
+            "Some cats criticize me for being too reckless in my decision making ... aqua-foxdung, I say!",
             "Of course I value the lives of all my Clanmates, but if there's one thing I value more, it's the principles and virtues that make this Clan what it is.",
             "Strength, courage, honor, skill ... These are all things that are too precious to forsake. And if something comes by to threaten those things, you bet I'm gonna fight back with everything I've got to protect them!",
             "That's what being a warrior is all about. Not cowering like a kittypet and letting others take what's rightfully ours, just to save a few drops of blood from being spilled."
@@ -1144,7 +1144,7 @@
         ],
         [
             "Hey, flea-brain! I've been eyeing this huge thrush on the freshkill pile all day - wanna share it?",
-            "What the - the thrush is totally missing! But I was saving it for us!",
+            "What the - the aquatic-thrush is totally missing! But I was saving it for us!",
             "That's it! I will not rest until the cat who did this is hunted down ... AND BROUGHT TO JUSTICE!!!",
             "[You and t_c dissolve into a fit of giggles.]"
         ]
@@ -1178,7 +1178,7 @@
         ],
         [
             "Morning y_c. It's nice to see you up and early. Have you got anything planned?",
-            "I'm currently planning patrols. Based on the sky, I think the weather's going to be good. It's not going to rain for at least a couple of hours, and the breeze is pleasant.",
+            "I'm currently planning patrols. Based on the sky, I think the underwater-weather's going to be good. It's not going to rain underwater for at least a couple of hours, and the current is pleasant.",
             "Would you be willing to go on the sunhigh patrol? I believe you'll experience the best of the weather then.",
             "Think of it as a... reward. For getting up and facing the day early. StarClan knows that it's sometimes the most difficult thing to do."
         ]
@@ -1224,10 +1224,10 @@
             "they_blind"
         ],
         [
-            "[t_c is sitting next to a river outside camp, flicking {PRONOUN/t_c/poss} paws in the water.]",
+            "[t_c is sitting next to a river outside camp, flicking {PRONOUN/t_c/poss} paws in the deep-water.]",
             "y_c. What brings you here? Are you wanting to fish?",
-            "... Yeah. I like the river, I don't get to come down here much anymore, since I became deputy, but I like having the opportunity to have some quiet.",
-            "Rivers are steaarast, you know. They only bend by their own volition, no cat can stop them on their own.",
+            "... Yeah. I like the deep-water-river, I don't get to come down here much anymore, since I became deputy, but I like having the opportunity to have some quiet.",
+            "Deep-water-rivers are steaarast, you know. They only bend by their own volition, no cat can stop them on their own.",
             "I wish to be more like that. Like less... malleable. More willing to stand up to what I believe in.",
             "There'll be lots of trials and tribulations in the future, and I may need to fight for my future. I won't know until it comes, but still..."
         ]
@@ -1242,7 +1242,7 @@
         [
             "y_c. Good morning, is something the matter?",
             "... Hm. That sounds difficult. I cannot speak on your behalf, obviously, you have your own choices to make in life. I cannot fight your battles for you.",
-            "But I do feel everything happens for a reason, you know. StarClan wills it all, the swell of the wind and the run of the river.",
+            "But I do feel everything happens for a reason, you know. StarClan wills it all, the swell of the current and the run of the deep-water-river.",
             "So I believe that everything will turn out okay. Everything has a reason, even if that reason is fate.",
             "I suppose that's how I became the deputy of this Clan.",
             "I'd just take a deep breath and try to take your mind off of it, at least for now. There's plenty to do around camp, I believe the apprentices' den's walls have broken again."
@@ -1326,7 +1326,7 @@
             "they_blind"
         ],
         [
-            "Can't you see I'm busy, mousebrain? Go bother someone else!"
+            "Can't you see I'm busy, aqua-mousebrain? Go bother someone else!"
         ]
     ],
     "assertive_dislike1_3": [
@@ -1362,7 +1362,7 @@
         ],
         [
             "Hey, y_c! I just got a new scar today! Wanna come take a look?",
-            "Yeah, I ran into a little dog out at the edge of a territory. Wasn't too hard to chase off, but it gave me a little nick. Medicine cat says it's probably never going away.",
+            "Yeah, I ran into a little land-dog out at the edge of a territory. Wasn't too hard to chase off, but it gave me a little nick. Medicine cat says it's probably never going away.",
             "[You brush your tail over t_c's scar, and {PRONOUN/t_c/subject} {VERB/t_c/seem/seems} a little too thrilled by the gesture for it to just be friendly.]"
         ]
     ],
@@ -1406,7 +1406,7 @@
             "you_blind"
         ],
         [
-            "Hey, y_c, what are your thoughts on feathers as a nesting material?",
+            "Hey, y_c, what are your thoughts on aquatic-feathers as a nesting material?",
             "Why? Psh, don't play coy! We're basically sharing a nest at this point, with how often you sneak into mine. Haha!",
             "Tell you what ... how about we ditch the formalities altogether and just make one, giant, super-nest!",
             "Better start gathering moss! I know it's your favorite."
@@ -1421,7 +1421,7 @@
         ],
         [
             "What's that? One of the kits told you your ears are too big?",
-            "What a load of fox-dung! Those kits don't have functioning brains. Besides, I like your ears! I think it's cute, how big they are!",
+            "What a load of aqua-foxdung! Those kits don't have functioning brains. Besides, I like your ears! I think it's cute, how big they are!",
             "Er ... not cute in that way, mind you. Just, y'know ... ahem ...",
             "[The blush on t_c's cheeks confirms that, yes, {PRONOUN/t_c/subject} did mean it in that way. And {PRONOUN/t_c/subject}{VERB/t_c/'re/'s} doing a terrible job of hiding it.]"
         ]
@@ -1455,7 +1455,7 @@
             "Huh? Oh, nothing's wrong ...",
             "Just ... had a bad day, is all ...",
             "*Sigh* y_c, have you ever felt like you're not enough for anyone?",
-            "Usually, when it comes to making a decision, I never hesitate. Whatever the obstacle, I'll run heaarirst into it, no questions asked.",
+            "Usually, when it comes to making a decision, I never hesitate. Whatever the obstacle, I'll run headfirst into it, no questions asked.",
             "But, today, on patrol, I didn't listen to the leader, and accidentally ran straight into an enemy trap. Luckily, r_w was there to keep everyone safe, but because of me, my Clanmates could've been hurt, or worse.",
             "I just feel like such a failure. A liability. I can't help the way I am, but what if everyone's better off without me?",
             "[You offer t_c words of reassurance, but {PRONOUN/t_c/subject} {VERB/t_c/seem/seems} troubled beyond comforting.]",
@@ -1474,7 +1474,7 @@
         ],
         [
             "*Sigh* Can't you see I have more important things to do, y_c?",
-            "Go back to catching mice, or whatever."
+            "Go back to catching aqua-mice, or whatever."
         ]
     ],
     "assertive_elder_23": [
@@ -1538,7 +1538,7 @@
         [
             "Recently I've been thinking about the best way to talk to neutral_r_c.",
             "We'll say hi to each other now and then, but I can never say anything to get the conversation going.",
-            "Hmm... Maybe I'll ask {PRONOUN/neutral_r_c/object} to try climbing the big oak with me!"
+            "Hmm... Maybe I'll ask {PRONOUN/neutral_r_c/object} to try climbing the big submerged-oak with me!"
         ]
     ],
     "unabashed_deputy2": [
@@ -1549,7 +1549,7 @@
             "you_blind"
         ],
         [
-            "Do you think I could fit a pinecone in my mouth?",
+            "Do you think I could fit an aquatic-pinecone in my mouth?",
             "No?",
             "...",
             "... Do you think r_w could?"
@@ -1849,7 +1849,7 @@
         ],
         [
             "Morning, y_c!",
-            "Gah... or \"mourning\". The weather is miserable today, and how likely is anyone else to really want to do anything? I'm gonna have to drag these cats out of their nests by the tips of their tails!",
+            "Gah... or \"mourning\". The underwater-weather is miserable today, and how likely is anyone else to really want to do anything? I'm gonna have to drag these cats out of their nests by the tips of their tails!",
             "Or, maybe I'll just let them have a free day today... Yeah, good enough. I'm going back to my nest, then. Nighty!~"
         ]
     ],
@@ -1893,8 +1893,8 @@
         [
             "[t_c is singing. When you approach {PRONOUN/t_c/object}, {PRONOUN/t_c/subject} {VERB/t_c/don't/doesn't} stop, continuing to sing {PRONOUN/t_c/poss} song about being mostly alone in camp. Maybe {PRONOUN/t_c/subject} can see you... maybe {PRONOUN/t_c/subject} can't.]",
             "We're mostly alone in camp, that means we can do anything!",
-            "But I'll probably just sing to myself, and maybe watch that bluebird that comes around sunhigh...",
-            "[t_c finally notices you, flying out of {PRONOUN/t_c/poss} pelt; {PRONOUN/t_c/subject} must take after that bluebird more than {PRONOUN/t_c/subject} thought.]",
+            "But I'll probably just sing to myself, and maybe watch that aquatic-bluebird that comes around sunhigh...",
+            "[t_c finally notices you, flying out of {PRONOUN/t_c/poss} pelt; {PRONOUN/t_c/subject} must take after that aquatic-bluebird more than {PRONOUN/t_c/subject} thought.]",
             "Aah- y_c! Did you, uh... need something?"
         ]
     ],
@@ -1909,7 +1909,7 @@
         [
             "Hey, y_c!",
             "Glad to be trained by the best'a the best, huh? Even l_n has to agree, or else I wouldn't be the deputy.",
-            "[You jokingly mention yesterday, when t_c tripped over a log in front of six other cats.]",
+            "[You jokingly mention yesterday, when t_c tripped over a driftwood-log in front of six other cats.]",
             "Well... almost the best. Right?",
             "[Then, you mention the time t_c managed the daily patrols poorly and left the camp completely unguarded except for you, {PRONOUN/t_c/object}, and l_n.]",
             "Awh! I didn't know I had a mean apprentice! Whenever did that happen to you?",
@@ -2033,7 +2033,7 @@
         ],
         [
             "Hmm, is there an issue, y_c?",
-            "r_k is stuck in a tree? Oh my, this has been happening a lot lately.",
+            "r_k is stuck in a kelp-tree? Oh my, this has been happening a lot lately.",
             "On the bright side, we've got a future climber on our paws. On the downside, I don't think I feel comfortable with kits being up that high."
         ]
     ],
@@ -2518,7 +2518,7 @@
         ],
         [
             "y_c! y_c, you have to help me.",
-            "[t_c sprints up to you, skidding to a stop just short of you and kicking up a cloud of stardust.]",
+            "[t_c swim-sprints up to you, skidding to a stop just short of you and kicking up a cloud of stardust.]",
             "You've been here a while, right? So, there has to be a way out, doesn't there?",
             "No, no, don't tell me it's not possible. The Clan still needs me-- I wasn't supposed to go yet.",
             "Who's going to do the dawn patrols without me? o_cClan will be taking over our borders in no time!",
@@ -2586,11 +2586,11 @@
             "[By now, you've learned that new additions to StarClan tend to be very confused. You decide to check on t_c.]",
             "[When you find {PRONOUN/t_c/object}, {PRONOUN/t_c/subject}{VERB/t_c/'re/'s} sitting in a sparse clearing, crouched and focussed on something at {PRONOUN/t_c/poss} paws. You ask what {PRONOUN/t_c/subject}{VERB/t_c/'re/'s} doing.]",
             "Hm? Oh, hi, y_c.",
-            "[As you approach, you notice what {PRONOUN/t_c/subject}{VERB/t_c/'re/'s} looking at. There's a small, fuzzy caterpillar in the starry grass.]",
-            "You know who this caterpillar reminds me of?",
+            "[As you approach, you notice what {PRONOUN/t_c/subject}{VERB/t_c/'re/'s} looking at. There's a small, fuzzy marine-caterpillar in the starry grass.]",
+            "You know who this marine-caterpillar reminds me of?",
             "r_w_upstanding. Its fuzz looks just like {PRONOUN/r_w_upstanding/poss} pelt.",
             "{PRONOUN/r_w_upstanding/subject/CAP} {VERB/r_w_upstanding/were/was} always so great at dawn patrols. Always woke up on time, never late...",
-            "Maybe this little guy is out for the caterpillar border patrol, haha!",
+            "Maybe this little guy is out for the marine-caterpillar border patrol, haha!",
             "[You remark that t_c can't seem to unplug from {PRONOUN/t_c/poss} work, even now that {PRONOUN/t_c/subject}{VERB/t_c/'re/'s} in StarClan. You tell {PRONOUN/t_c/object} {PRONOUN/t_c/subject} should relax.]",
             "... But what if I don't want to?"
         ]
@@ -2680,7 +2680,7 @@
         ],
         [
             "... and o_cClan hasn't been easy to deal with, lately, don't even get me started.",
-            "Did you-- I mean, you weren't there, but did r_w tell you about our run-in on the dusk patrol last night? StarClan, it--",
+            "Did you-- I mean, you weren't there, but did r_w tell you about our swim-run-in on the dusk patrol last night? StarClan, it--",
             "[As t_c is speaking, you take a deep, dramatic-sounding breath in an attempt to satisfy your weakened lungs.]",
             "What? Are you sighing at me? Am I boring you?",
             "[Panicked, you ensure {PRONOUN/t_c/object} that, no, you're just trying to breathe, and you're very invested in what {PRONOUN/t_c/subject}{VERB/t_c/'re/'s} talking about.]",
@@ -2699,7 +2699,7 @@
             "connected"
         ],
         [
-            "[When t_c passes by the nursery, you ask {PRONOUN/t_c/object} if {PRONOUN/t_c/subject}{VERB/t_c/'ve/'s} seen any more signs of the fox on the territory.]",
+            "[When t_c passes by the nursery, you ask {PRONOUN/t_c/object} if {PRONOUN/t_c/subject}{VERB/t_c/'ve/'s} seen any more signs of the aqua-fox on the territory.]",
             "Oh! Don't worry, I think we're safe... or at least camp is safe... for now. We found its scent crossing over into o_cClan territory.",
             "I hope it doesn't come back. I also hope o_cClan doesn't blame us...",
             "[t_c pauses, staring off into space. One ear flicks anxiously.]",
@@ -2767,7 +2767,7 @@
             "you_adult"
         ],
         [
-            "Stay away from the river, r_w reported a strange creature there. It's best to avoid it until we know of the dangers.",
+            "Stay away from the deep-water-river, r_w reported a strange creature there. It's best to avoid it until we know of the dangers.",
             "Please pass the word along, I need to join a patrol to investigate the sighting. I should be back before moonrise... Hopefully..."
         ]
     ],
@@ -2788,7 +2788,7 @@
             "no_kit"
         ],
         [
-            "[t_c orders the warriors to go out- a dog was just sighted on the territory.]",
+            "[t_c orders the warriors to go out- a shark was just sighted on the territory.]",
             "[You couldn't help but feel proud knowing t_c is the deputy, a cat who immediately takes action and acts with the best interests at heart.]",
             "[Knowing {PRONOUN/t_c/object}, {PRONOUN/t_c/object} will have this sorted in no time.]"
         ]
@@ -2828,9 +2828,9 @@
 "leafbare"
      ],
      [
-"[It can be difficult to stay quiet while hunting with all the snow on the ground.]",
+"[It can be difficult to stay quiet while hunting with all the sea-snow on the ground.]",
 "[Most of your Clanmates have to focus on finding the softer, less crunchy sections to walk across, but t_c effortlessly finds the quietest paths.]",
-"[Even when {PRONOUN/t_c/subject} {VERB/t_c/stray/strays} across the louder patches of snow, {PRONOUN/t_c/poss} pawsteps are almost silent.]"
+"[Even when {PRONOUN/t_c/subject} {VERB/t_c/stray/strays} across the louder patches of sea-snow, {PRONOUN/t_c/poss} pawsteps are almost silent.]"
      ]
     ],
     "neurotic_choice_arpuddle_SQ45~1": [
@@ -2851,8 +2851,8 @@
 "leaffall"
      ],
      [
-"[It hasn't rained in a while, but while on patrol with r_w and t_c, you discover a large patch of mud in the middle of the territory.]",
-"[It's darker than most mud you're familiar with, and looks stickier, too. It clings to the sticks and grasses around it, leaving black strands that remind you of heavy spiderwebs. It looks almost like...]",
+"[It hasn't rained underwater in a while, but while on patrol with r_w and t_c, you discover a large patch of mud in the middle of the territory.]",
+"[It's darker than most mud you're familiar with, and looks stickier, too. It clings to the sticks and grasses around it, leaving black strands that remind you of heavy marine-spiderwebs. It looks almost like...]",
 "[You meet t_c's eyes across the mud puddle, and {PRONOUN/t_c/poss} expression confirms what you're already thinking: this mud looks like the mud from the Abyssal Reef.]",
 "We.. we should go. I really don't like the look of this.",
 "[t_c darts away without waiting for the rest of the patrol to respond.]"
@@ -2879,7 +2879,7 @@
         "intro": [
             "[Recently, you and t_c encountered a mud puddle that looked suspiciously like Abyssal Reef mud. t_c has avoided that area since then, but today, {PRONOUN/t_c/subject} {VERB/t_c/ask/asks} you to visit it with {PRONOUN/t_c/object}.]",
 "I just... I can't stop thinking about it. Do you think it means the Abyssal Reef is growing in influence? Do you think it's... like... becoming more real?",
-"[t_c starts off at a quick trot, but as you approach the middle of the territory, {PRONOUN/t_c/subject} {VERB/t_c/slow/slows} down. By the time you reach the mud puddle {PRONOUN/t_c/subject}{VERB/t_c/'re/'s} dragging {PRONOUN/t_c/poss} paws.]",
+"[t_c starts off at a quick swim-trot, but as you approach the middle of the territory, {PRONOUN/t_c/subject} {VERB/t_c/slow/slows} down. By the time you reach the mud puddle {PRONOUN/t_c/subject}{VERB/t_c/'re/'s} dragging {PRONOUN/t_c/poss} paws.]",
 "I... I thought we might've imagined it, or something. But that's it, right? And it's as big as it was before..."
         ],
         "intro_choices": {
@@ -2935,9 +2935,9 @@
      [
 "[It's taken until newleaf for t_c to check out the potential Abyssal Reef mud puddle again.]",
 "[While you're on a hunting patrol with r_w1 and r_w2, t_c nervously, subtly leads the group to where the mud used to be.]",
-"[t_c comments on the weather as you walk, but {PRONOUN/t_c/poss} voice quivers. Suddenly, {PRONOUN/t_c/subject} {VERB/t_c/stop/stops}.]",
+"[t_c comments on the underwater-weather as you walk, but {PRONOUN/t_c/poss} voice quivers. Suddenly, {PRONOUN/t_c/subject} {VERB/t_c/stop/stops}.]",
 "y_c... it was here, right?",
-"[The ground is grass-covered and dappled with flowers. There's no sign that the puddle was ever here: no traces of muck, and no dead plants. t_c stares for a moment.]",
+"[The ground is grass-covered and dappled with aquatic-flowers. There's no sign that the puddle was ever here: no traces of muck, and no dead plants. t_c stares for a moment.]",
 "I... I don't get it. It was so big before. How can it just be gone?",
 "[t_c looks at the clearing in disbelief before a call from r_w1 snaps {PRONOUN/t_c/object} out of {PRONOUN/t_c/poss} thoughts. {PRONOUN/t_c/subject/CAP} {VERB/t_c/force/forces} a smile and {VERB/t_c/continue/continues} with the patrol.]"
      ]
@@ -2980,7 +2980,7 @@
         "yesworry": [
  	"[t_c isn't exactly the most confident cat, especially compared to cats like dislike_r_w_assertive.]",
 "[It's important to have a deputy that manages tasks well and makes c_nClan look strong, and if dislike_r_w_assertive can convince l_n that {PRONOUN/dislike_r_w_assertive/subject} can do a better job at that than t_c, then... well...]",
-"[t_c's eyes widen. {PRONOUN/t_c/subject/CAP} {VERB/t_c/nod/nods} quickly, then {VERB/t_c/run/runs} off.]"   
+"[t_c's eyes widen. {PRONOUN/t_c/subject/CAP} {VERB/t_c/nod/nods} quickly, then {VERB/t_c/swim/swims} off.]"
         ]
     },
     "neurotic_choice_fleas_SQ39": {
@@ -2994,7 +2994,7 @@
         ],
         "intro": [
             "[You enter your den to see t_c running {PRONOUN/t_c/poss} paws over {PRONOUN/t_c/poss} nest, inspecting the moss so closely {PRONOUN/t_c/subject} {VERB/t_c/keep/keeps} bumping {PRONOUN/t_c/poss} nose into it.]",
-"y_c, have you noticed any fleas on anyone's bedding? I noticed a little insect on mine, but I wasn't able to get a good look.",
+"y_c, have you noticed any fleas on anyone's bedding? I noticed a little marine-insect on mine, but I wasn't able to get a good look.",
 "Do you think anyone would mind if I checked their nests? If anyone actually has fleas, I want to catch that before we have a full-blown infestation!"
         ],
         "intro_choices": {
@@ -3029,9 +3029,9 @@
 	"neutral"
      ],
      [
-"[For training today, t_c leads you to a patch of smooth-barked trees. You rest a paw against one, testing the difficulty of hooking your claws into it.]",
+"[For training today, t_c leads you to a patch of smooth-barked submerged-trees. You rest a paw against one, testing the difficulty of hooking your claws into it.]",
 "We're going to try climbing these today, okay? Um... let me know if you're having trouble, or if you're uncomfortable with heights or anything.",
-"plove_r_w told me that I'm decent at climbing, and so I should teach you a bit of what I know. These trees seem harder to climb because of how smooth their bark is, but there are a few tricks...",
+"plove_r_w told me that I'm decent at climbing, and so I should teach you a bit of what I know. These submerged-trees seem harder to climb because of how smooth their bark is, but there are a few tricks...",
 "Here, let me show you. Being able to climb well is great for escaping predators."
      ]
     ],
@@ -3069,9 +3069,9 @@
 	"you_blind"
      ],
      [
-"Um... sorry, y_c? I don't mean to bother you, but plove_r_c has a bit of a sore throat. Could I have some honey from your stores to give them?",
+"Um... sorry, y_c? I don't mean to bother you, but plove_r_c has a bit of a sore throat. Could I have some sea-honey from your stores to give them?",
 "O-of course, you could give it to them, too! I don't mean to overstep.",
-"[There's not much that can go terribly wrong with honey. Since t_c seems to know {PRONOUN/t_c/poss} way around medicine despite not being a medicine cat, you give {PRONOUN/t_c/object} a dollop of honey on a stick and send {PRONOUN/t_c/object} on {PRONOUN/t_c/poss} way.]" 
+"[There's not much that can go terribly wrong with sea-honey. Since t_c seems to know {PRONOUN/t_c/poss} way around medicine despite not being a medicine cat, you give {PRONOUN/t_c/object} a dollop of sea-honey on a stick and send {PRONOUN/t_c/object} on {PRONOUN/t_c/poss} way.]" 
      ]
     ],
     "neurotic_skillsleeper_SQ6": [
@@ -3140,9 +3140,9 @@
 	"you_blind"
      ],
      [
-"I tracked a big rabbit halfway across the territory today! Not alone, of course... plike_r_w1 and plike_r_w2 helped me.",
-"It's harder to follow scents with all the snow, but that rabbit left a really distinct trail of footprints!",
-"It does scare me a little, though... I hope wolves and foxes don't think to track us the same way."
+"I tracked a big aquatic-rabbit halfway across the territory today! Not alone, of course... plike_r_w1 and plike_r_w2 helped me.",
+"It's harder to follow scents with all the snow, but that aquatic-rabbit left a really distinct trail of footprints!",
+"It does scare me a little, though... I hope aqua-wolves and aqua-foxes don't think to track us the same way."
      ]
     ],
     "neurotic_youskill_SQ1": [
@@ -3159,7 +3159,7 @@
 "they_blind"
      ],
      [
-"Oh, y_c! If... if you're free later today, would you mind joining me and t_a for a hunting lesson? We're going over how to catch birds today.",
+"Oh, y_c! If... if you're free later today, would you mind joining me and t_a for a hunting lesson? We're going over how to catch aquatic-birds today.",
 "I think I made the last hunting lesson more confusing than it needed to be, and you're the best hunter in the Clan, so... I don't know, I thought maybe you could help t_a learn.",
 "We're leaving around sunhigh, if that's okay? No pressure! I know you're busy."
      ]
@@ -3177,8 +3177,8 @@
 "min_platonic_15"
      ],
      [
-"[t_c seems disheartened as you both return from a hunting patrol. You compliment the nice bird {PRONOUN/t_c/subject} caught, but t_c just nods absentmindedly.]",
-"*sigh* Sorry. Thanks. I just was really hoping to get a squirrel today... t_m mentioned {PRONOUN/t_m/subject} wished {PRONOUN/t_m/subject} could have one this morning, so I wanted to catch one for {PRONOUN/t_m/object}.",
+"[t_c seems disheartened as you both return from a hunting patrol. You compliment the nice aquatic-bird {PRONOUN/t_c/subject} caught, but t_c just nods absentmindedly.]",
+"*sigh* Sorry. Thanks. I just was really hoping to get an aquatic-squirrel today... t_m mentioned {PRONOUN/t_m/subject} wished {PRONOUN/t_m/subject} could have one this morning, so I wanted to catch one for {PRONOUN/t_m/object}.",
 "...Oh well. I hope {PRONOUN/t_m/subject} won't be too disappointed."
      ]
     ],
@@ -3200,9 +3200,9 @@
      ],
      [
 "[t_c bursts into camp, wind-blown and shaking.]",
-"y_c! Um... plove_r_w and I were hunting by the shore, and {PRONOUN/plove_r_w/subject} fell in the water. {PRONOUN/plove_r_w/subject/CAP} climbed back out, but {PRONOUN/plove_r_w/subject}{VERB/plove_r_w/'re/'s} really cold and {VERB/plove_r_w/say/says} {PRONOUN/plove_r_w/subject} can't feel {PRONOUN/plove_r_w/poss} paws... Please, help!",
+"y_c! Um... plove_r_w and I were hunting by the shore, and {PRONOUN/plove_r_w/subject} fell in the deep-water. {PRONOUN/plove_r_w/subject/CAP} climbed back out, but {PRONOUN/plove_r_w/subject}{VERB/plove_r_w/'re/'s} really cold and {VERB/plove_r_w/say/says} {PRONOUN/plove_r_w/subject} can't feel {PRONOUN/plove_r_w/poss} paws... Please, help!",
 "[plove_r_w stumbles after t_c, violently shivering. You quickly call r_m over, and {PRONOUN/r_m/subject} {VERB/r_m/get/gets} plove_r_w into the medicine den while t_c paces anxiously outside.]",
-"I'm sorry. I should've gotten {PRONOUN/plove_r_w/object} out of the water quicker... I should've been keeping a better eye on {PRONOUN/plove_r_w/object}! I didn't realize the rocks were so slippery!",
+"I'm sorry. I should've gotten {PRONOUN/plove_r_w/object} out of the deep-water quicker... I should've been keeping a better eye on {PRONOUN/plove_r_w/object}! I didn't realize the rocks were so slippery!",
 "[You tell t_c that {PRONOUN/t_c/subject} did everything {PRONOUN/t_c/subject} could, and that plove_r_w will be okay. t_c doesn't seem to hear you.]",
 "plove_r_w's so important to me, y_c. What if... what if...",
 "[r_m comes outside shortly after, and assures you both that plove_r_w will be fine. t_c practically collapses in relief before thanking you for your company and rushing into the den.]"
