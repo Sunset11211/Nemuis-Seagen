@@ -33,7 +33,7 @@
             "trust"
         ],
         [
-            "[t_c paws at a few plucked flowers, {PRONOUN/t_c/poss} eyes following their_crush around camp.]",
+            "[t_c paws at a few plucked aquatic-flowers, {PRONOUN/t_c/poss} eyes following their_crush around camp.]",
             "I wanted to give these to their_crush but, I don't know.",
             "Maybe next time."
         ]
@@ -70,8 +70,8 @@
             "from_your_kit"
         ],
         [
-            "I'm going to give flowers to r_k today!",
-            "... It's gift a flower moon, right?"
+            "I'm going to give aquatic-flowers to r_k today!",
+            "... It's gift an aquatic-flower moon, right?"
         ]
     ],
     "valen_shunned_H1": [
@@ -117,8 +117,8 @@
         ],
         [
             "... y_c.",
-            "[t_c gently drops a mouse at your paws.]",
-            "Here. I... wanted to get flowers, as usual, but I didn't want to be caught sneaking back into camp. I hope this is okay.",
+            "[t_c gently drops an aqua-mouse at your paws.]",
+            "Here. I... wanted to get aquatic-flowers, as usual, but I didn't want to be caught sneaking back into camp. I hope this is okay.",
             "[t_c's ear flickers at the sound of movement and swiftly moves away, out of sight.]"
         ]
     ],
@@ -154,7 +154,7 @@
             "dislike"
         ],
         [
-            "Oh, what are those flowers for? your_crush?",
+            "Oh, what are those aquatic-flowers for? your_crush?",
             "HAH! As if they'd accept them! I'd like to see you try."
         ]
     ],
@@ -170,10 +170,10 @@
             "half sibling"
         ],
         [
-            "[t_c approaches you nervously, holding a tiny yellow flower in {PRONOUN/t_c/poss} mouth.]",
+            "[t_c approaches you nervously, holding a tiny yellow aquatic-flower in {PRONOUN/t_c/poss} mouth.]",
             "I don't think I'm doing this right, but...",
-            "[t_c nudges the flower towards you.]",
-            "Everyone's giving flowers to cats they really like, and you're the bestest sibling ever, so... here!"
+            "[t_c nudges the aquatic-flower towards you.]",
+            "Everyone's giving aquatic-flowers to cats they really like, and you're the bestest sibling ever, so... here!"
         ]
     ],
     "valentine_focus_SQ2": [
@@ -200,10 +200,10 @@
             "platonic_like"
         ],
         [
-            "[You find t_c standing in t_m's nest, decorating it with dozens of meticulously picked petals.]",
+            "[You find t_c standing in t_m's nest, decorating it with dozens of meticulously picked aquatic-petals.]",
             "Oh! H-hi, y_c. Sorry, I know this looks silly.",
             "Actually, could you distract t_m for a bit?",
-            "I need to sneak some more petals into camp, and it would be terrible if {PRONOUN/t_m/subject} saw me! That would completely ruin the surprise!"
+            "I need to sneak some more aquatic-petals into camp, and it would be terrible if {PRONOUN/t_m/subject} saw me! That would completely ruin the surprise!"
         ]
     ],
     "valentine_focus_SQ4": [
@@ -214,9 +214,9 @@
             "platonic_like"
         ],
         [
-            "[You're surprised to see t_c up at dawn, trotting towards the edge of camp. {PRONOUN/t_c/subject/CAP} {VERB/t_c/pause/pauses} when you ask where {PRONOUN/t_c/subject}{VERB/t_c/'re/'s} going.]",
+            "[You're surprised to see t_c up at dawn, swim-trotting towards the edge of camp. {PRONOUN/t_c/subject/CAP} {VERB/t_c/pause/pauses} when you ask where {PRONOUN/t_c/subject}{VERB/t_c/'re/'s} going.]",
             "Well... everyone's getting gifts for their mates, so of course I need to find something good for t_m!",
-            "There's a patch of blue flowers where we used to go and talk, so I thought I'd bring {PRONOUN/t_m/object} some.",
+            "There's a patch of blue aquatic-flowers where we used to go and talk, so I thought I'd bring {PRONOUN/t_m/object} some.",
             "But last night I was thinking... what if someone got to them first? Or what if they didn't bloom this year? Or... I don't know... something ate them?",
             "So I need to go check! And if they're gone, I'll need to think of something else, quick!"
         ]
@@ -248,9 +248,9 @@
             "neutral"
         ],
         [
-            "[You find t_c diligently inspecting a bundle of newly picked flowers. {PRONOUN/t_c/subject/CAP} {VERB/t_c/stick/sticks} {PRONOUN/t_c/poss} nose into several before noticing you.]",
+            "[You find t_c diligently inspecting a bundle of newly picked aquatic-flowers. {PRONOUN/t_c/subject/CAP} {VERB/t_c/stick/sticks} {PRONOUN/t_c/poss} nose into several before noticing you.]",
             "Oh, y_c! I know this looks weird.",
-            "I'm just checking these flowers before I give them to t_m. I don't want any bees to be hiding inside... what if they stung {PRONOUN/t_m/object}?"
+            "I'm just checking these aquatic-flowers before I give them to t_m. I don't want any marine-bees to be hiding inside... what if they stung {PRONOUN/t_m/object}?"
         ]
     ],
     "valenfocus_gen_1ps": [
@@ -273,7 +273,7 @@
         ],
         [
             "What day is it again? Why is everyone...",
-            "Oh! I forgot! I need to get t_m flowers!",
+            "Oh! I forgot! I need to get t_m aquatic-flowers!",
             "[You watch t_c rush off, t_m laughing and shaking {PRONOUN/t_m/poss} head affectionately.]"
         ]
     ],
@@ -287,7 +287,7 @@
             "they_blind"
         ],
         [
-            "Hey you! I got you flowers!!",
+            "Hey you! I got you aquatic-flowers!!",
             "[Your mate presses {PRONOUN/t_c/poss} head into your shoulder lovingly, a purr erupting from {PRONOUN/t_c/object}.]",
             "[Until you hear r_k wrinkle {PRONOUN/t_c/poss} nose and call you two gross. t_c bursts into soft laughter.]"
         ]
@@ -312,9 +312,9 @@
         ],
         [
             "Hey, y_c, come here.",
-            "[When you trot over to t_c, you see that {PRONOUN/t_c/subject} {VERB/t_c/have/has} a small flower in between {PRONOUN/t_c/poss} forepaws. {PRONOUN/t_c/subject/CAP}{VERB/t_c/'re/'s} glancing around, apparently not wanting anycat else to see it.]",
-            "Since the flowers are blooming and everything, I wanted to give this flower to their_crush, but... I don't know, is that stupid?",
-            "Have you seen them lately? What if some other cat has been giving {PRONOUN/their_crush/object} flowers today?",
+            "[When you swim-trot over to t_c, you see that {PRONOUN/t_c/subject} {VERB/t_c/have/has} a small aquatic-flower in between {PRONOUN/t_c/poss} forepaws. {PRONOUN/t_c/subject/CAP}{VERB/t_c/'re/'s} glancing around, apparently not wanting anycat else to see it.]",
+            "Since the aquatic-flowers are blooming and everything, I wanted to give this aquatic-flower to their_crush, but... I don't know, is that stupid?",
+            "Have you seen them lately? What if some other cat has been giving {PRONOUN/their_crush/object} aquatic-flowers today?",
             "[You encourage t_c to give it a shot. 'Tis the season, after all!]",
             "Hhhh... Okay, I will. But if this blows up in my face, I'm blaming you."
         ]
@@ -355,12 +355,12 @@
         [
             "[t_c bounds up to you, battered and bruised and somehow soaking wet, with a huge grin plastered on {PRONOUN/t_c/poss} face.]",
             "Happy couples' season, babe! I got you this gift!",
-            "[t_c places a half-wilted flower at your paws.]",
+            "[t_c places a half-wilted aquatic-flower at your paws.]",
             "I spotted it at the edge of the territory and just <i>knew</i> it would be perfect for you!",
-            "And all I had to do was cross two rivers, then scale up the side of this cliff!",
+            "And all I had to do was cross two deep-water-rivers, then scale up the side of this cliff!",
             "I, ah ... Might've slipped a little bit on the way down. But I did my best to keep it intact for you!",
             "What do you think?",
-            "[The flower is missing half of its petals, the stem is snapped in two places, and its leaves are coming off.]",
+            "[The aquatic-flower is missing half of its petals, the stem is snapped in two places, and its leaves are coming off.]",
             "[It's torn up, bruised, and weathered ... but still beautiful. Just like your t_c.]",
             "[You'll cherish it forever.]"
         ]
@@ -375,7 +375,7 @@
         [
             "y_c! It's couples' season! Don't you know what that means?",
             "Now's the perfect time to confess how you feel to your_crush!!!",
-            "Ahh, I can practically see it now ... a breeze in the air, a song in the sky, the flowering trees in full bloom overhead ...",
+            "Ahh, I can practically see it now ... a breeze in the air, a song in the sky, the aquatic-flowering kelp-trees in full bloom overhead ...",
             "C'mon, don't be nervous! You gotta go talk to {PRONOUN/your_crush/object} now, before you miss your chance!",
             "Do you need any help? Wait right here, I'll go grab {PRONOUN/your_crush/object} for you.",
             "[Oh no - better run, quick, before t_c forces you to confess!]"
@@ -419,8 +419,8 @@
             "non-mates"
         ],
         [
-            "[t_c has amassed a massive pile of gifts from all their secret admirers: flowers, feathers, gleaming stones and shells, choice cuts of prey.]",
-            "[They laze around their nest, batting around a dazzling, bright blue feather that must have come from an especially smitten devotee.]",
+            "[t_c has amassed a massive pile of gifts from all their secret admirers: aquatic-flowers, aquatic-feathers, gleaming stones and shells, choice cuts of prey.]",
+            "[They laze around their nest, batting around a dazzling, bright blue aquatic-feather that must have come from an especially smitten devotee.]",
             "Oh, hey, y_c. Come to share in the spoils?",
             "I guess this holiday isn't <i>so</i> useless after all ... Hehe."
         ]
@@ -592,7 +592,7 @@
         ],
         [
             "Ah, newleaf! What a time to be alive.",
-            "The sun is shining, the birds are chirping, and young heartthrobs everywhere are confessing their love ...",
+            "The sun is shining, the aquatic-birds are chirping, and young heartthrobs everywhere are confessing their love ...",
             "... If you need me, I'll be off puking somewhere."
         ]
     ],
@@ -620,7 +620,7 @@
             "they_adult"
         ],
         [
-            "[t_c has amassed a massive pile of gifts from all of {PRONOUN/t_c/poss} secret admirers: flowers, feathers, gleaming stones and shells, choice cuts of prey.]",
+            "[t_c has amassed a massive pile of gifts from all of {PRONOUN/t_c/poss} secret admirers: aquatic-flowers, aquatic-feathers, gleaming stones and shells, choice cuts of prey.]",
             "Oh, hey, squirt. You wanna play with some of this junk?",
             "Yeah, it's what happens every year. I never end up using any of it, but I'm sure some of it would make a great toy for a pipsqueak like you!",
             "Go ahead, take your pick.",
@@ -638,7 +638,7 @@
         [
             "y_c!",
             "[t_c trots over to you, shaking a tuft of fur from {PRONOUN/t_c/poss} claws in the process.]",
-            "Oh, don't worry about that - I found the prettiest feather in all the Clans for you!",
+            "Oh, don't worry about that - I found the prettiest aquatic-feather in all the Clans for you!",
             "Well, obviously since it's the best, someone else wanted it... but <i>I'm</i> the greatest, so I won it!"
         ]
     ],
@@ -656,7 +656,7 @@
         ],
         [
             "Oh, y_c! It's hopeless!",
-            "[t_c collapses at your paws, dropping the bundle of dandelions {PRONOUN/t_c/subject}'d picked up.]",
+            "[t_c collapses at your paws, dropping the bundle of aquatic-dandelions {PRONOUN/t_c/subject}'d picked up.]",
             "I was gonna give these to their_crush, like you said I should, but {PRONOUN/their_crush/subject}{VERB/their_crush/'re/'s} talking with someone else! I think it's over, y_c, I can't do this.",
             "Don't laugh!"
         ]
@@ -674,8 +674,8 @@
         [
             "Hey, y_c.",
             "[You turn to see t_c nosing a shiny stone in your direction.]",
-            "I found this by the riverbed. You should give it to your_crush. {PRONOUN/your_crush/subject/CAP}'ll love it, I promise.",
-            "What? Oh, come on, it's obvious you like {PRONOUN/your_crush/object}. Just do it, chicken!"
+            "I found this by the deep-water-riverbed. You should give it to your_crush. {PRONOUN/your_crush/subject/CAP}'ll love it, I promise.",
+            "What? Oh, come on, it's obvious you like {PRONOUN/your_crush/object}. Just do it, aqua-mouseheart!"
         ]
     ],
     "valentines_focus_J6": [
@@ -708,7 +708,7 @@
         ],
         [
             "y_c! Look!",
-            "[t_c drops a small bundle of wildflowers at your paws.]",
+            "[t_c drops a small bundle of aquatic-wildflowers at your paws.]",
             "Picked 'em just for you! Do you like them?"
         ]
     ],
@@ -736,7 +736,7 @@
             "any"
         ],
         [
-            "[You approach t_c with a gift-- a bundle of pretty feathers and plants tied together with grass.]",
+            "[You approach t_c with a gift-- a bundle of pretty aquatic-feathers and plants tied together with sea-grass.]",
             "[When {PRONOUN/t_c/subject} {VERB/t_c/see/sees} you, {PRONOUN/t_c/subject} {VERB/t_c/beam/beams}, gratefully accepting and giving you a lick on the cheek.]",
             "*Puuurrrrrrrrr...*",
             "[Though t_c doesn't speak, {PRONOUN/t_c/poss} purrs make {PRONOUN/t_c/object} the loudest cat in camp!]"
