@@ -10,8 +10,8 @@
         ],
         "intro": [
             "Boo!",
-            "[t_c pops out at you from behind a bush with the pelt of a rabbit laid over {PRONOUN/t_c/poss} own.]",
-            "Hehe, did I scare ya? Did you think I was a scary cat-rabbit hybrid?"
+            "[t_c pops out at you from behind a bush with the pelt of an aquatic-rabbit laid over {PRONOUN/t_c/poss} own.]",
+            "Hehe, did I scare ya? Did you think I was a scary cat-aquatic-rabbit hybrid?"
         ],
         "intro_choices": {
             "choice1": {
@@ -74,7 +74,7 @@
             "[t_c is licking clean the bones of some prey, long after most cats would have discarded of it.]",
             "Hi, y_c!",
             "Oh, I'm just cleaning up these bones so I can decorate the camp with them, since we're all in such a spooky mood lately.",
-            "I think this sparrow skull would look perfect on the top of the leader's den, don't you?"
+            "I think this aquatic-sparrow skull would look perfect on the top of the leader's den, don't you?"
         ]
     ],
     "halloween_J5": [
@@ -86,8 +86,8 @@
             "they_blind"
         ],
         [
-            "[t_c stalks past you with an indignant look on {PRONOUN/t_c/poss} face. {PRONOUN/t_c/subject/CAP} {VERB/t_c/have/has} a few sticks fastened to {PRONOUN/t_c/poss} head with vines.]",
-            "plike_r_c_silly wanted to put me in a costume. I'm a deer.",
+            "[t_c stalks past you with an indignant look on {PRONOUN/t_c/poss} face. {PRONOUN/t_c/subject/CAP} {VERB/t_c/have/has} a few driftwood-sticks fastened to {PRONOUN/t_c/poss} head with vines.]",
+            "plike_r_c_silly wanted to put me in a costume. I'm an aquatic-deer.",
             "Uncanny, right?"
         ]
     ],
@@ -116,7 +116,7 @@
             "you_blind"
         ],
         "intro": [
-            "[t_c runs up to your den and skids to a stop.]",
+            "[t_c swims up to your den and skids to a stop.]",
             "y_c! y_c!",
             "Prank or prey!",
             "[Hm... Which will it be..?]"
@@ -132,9 +132,9 @@
             }
         },
         "prey": [
-            "[You turn around and grab a small piece of honeycomb from behind your nest. You set it gently at t_c's paws.]",
+            "[You turn around and grab a small piece of sea-honeycomb from behind your nest. You set it gently at t_c's paws.]",
             "Eeee!! Thank you, y_c!",
-            "[{PRONOUN/t_c/subject/CAP} {VERB/t_c/run/runs} off to show t_p {PRONOUN/t_c/poss} new treat!]"
+            "[{PRONOUN/t_c/subject/CAP} {VERB/t_c/swim/swims} off to show t_p {PRONOUN/t_c/poss} new treat!]"
         ],
         "prank": [
             "[You turn around, pretending to grab something, but you quickly turn back and lunge in t_c's direction with your scariest face.]",
@@ -192,11 +192,11 @@
         ],
         "accept_choices": {
             "choice1": {
-                "text": "Deer",
+                "text": "Land-deer",
                 "next_scene": "costume"
             },
             "choice2": {
-                "text": "Bunny",
+                "text": "Land-bunny",
                 "next_scene": "costume"
             }
         },
@@ -250,7 +250,7 @@
         [
             "[You and t_c sit in the clearing, watching the last light of day fade from the sky.]",
             "Look at that.",
-            "[t_c points to a shadow cast by the twisted roots of a nearby tree.]",
+            "[t_c points to a shadow cast by the twisted roots of a nearby submerged-tree.]",
             "Doesn't it look like a cat?... Or maybe something worse.",
             "[You follow {PRONOUN/t_c/poss} gaze, and the shadow seems to shift, moving unnaturally along the ground.]",
             "t_p used to say that during Leaf-fall, spirits play with shadows. That's why they seem alive.",
@@ -269,7 +269,7 @@
         [
             "[While out on patrol, t_c suddenly halts and holds you back with {PRONOUN/t_c/poss} tail.]",
             "Whoa, whoa, don't get too close to that thing.",
-            "[t_c glances at a nearby hollowed-out tree, its bark gnarled and twisted into strange patterns.]",  
+            "[t_c glances at a nearby hollowed-out submerged-tree, its bark gnarled and twisted into strange patterns.]",  
             "They say a cat was buried inside it, and during Leaf-fall, you can still hear them scratching to get out.",
             "[In an instant, a sharp scraping sound emerges from within the hollow.]",
             "Did you hear that?"
@@ -284,7 +284,7 @@
         [
             "Watch me! I'm practicing my scary faces!",
             "[On cue, t_c scrunches up {PRONOUN/t_c/poss} nose and bares {PRONOUN/t_c/poss} teeth, trying to look fierce.]",
-            "Raaaar! I'm a mean old fox!",
+            "Raaaar! I'm a mean old aqua-fox!",
             "[t_c glances around for a reaction, then huffs with determination.]",
             "Wait, wait, I can do better!",
             "[The kit takes a deep breath, puffing out {PRONOUN/t_c/poss} cheeks and widening {PRONOUN/t_c/poss} eyes.]",
@@ -312,13 +312,13 @@
             "you_any"
         ],
         [
-            "[A group of cats are gathered around a large puddle, with t_c in the forefront, crouched low.]",
+            "[A group of cats are gathered around a large deep-water-puddle, with t_c in the forefront, crouched low.]",
             "Okay, okay, I just need to grab one real quick.",
-            "[As you draw closer, you spot a few apples bobbing teasingly on the surface.]",
+            "[As you draw closer, you spot a few coral-bits bobbing teasingly on the surface.]",
             "[t_c dips {PRONOUN/t_c/poss} head to snatch one, but it slips away, causing {PRONOUN/t_c/object} to earn a mouthful of water.]",
             "Pfft! Bleh! Why are these things so slippery!?",
-            "[The apprentice lunges again, snapping {PRONOUN/t_c/poss} jaws at the apple, but it floats out of reach once more.]",
-            "Mouse-dung!",
+            "[The apprentice lunges again, snapping {PRONOUN/t_c/poss} jaws at the coral-bits, but it floats out of reach once more.]",
+            "Aqua-mousedung!",
             "[It seems like {PRONOUN/t_c/subject} might be at this all day.]"
         ]
     ],
@@ -379,8 +379,8 @@
             "you_blind"
         ],
         [
-            "Have you noticed there've been lots of spiders around camp recently?",
-	        "I mean... I've got nothing against spiders! And I don't think these ones are venomous, it's just... they're a bit startling, you know?",
+            "Have you noticed there've been lots of marine-spiders around camp recently?",
+	        "I mean... I've got nothing against marine-spiders! And I don't think these ones are venomous, it's just... they're a bit startling, you know?",
 	        "I wonder why there are so many around recently. I hope they stop soon."
         ]
     ],
@@ -395,9 +395,9 @@
             "connected"
         ],
         [
-            "Ugh! There are still so many spiders around camp... I've been trying to stay out of their way.",
+            "Ugh! There are still so many marine-spiders around camp... I've been trying to stay out of their way.",
 	        "There was one hanging right in the middle of the entrance to the warriors' den, like it was guarding the place... it was huge, and orange, and... *shudder*",
-	        "I know they eat insects, and they're good to have around! All their legs, though... they just creep me out.",
+	        "I know they eat marine-insects, and they're good to have around! All their legs, though... they just creep me out.",
 	        "I still don't understand why there are so many in camp."
         ]
     ],
@@ -409,8 +409,8 @@
             "no_kit"
         ],
         [
-            "[A large raven has been hanging around the camp recently, filling silences with its mournful croaks and loudly flapping its wings when cats least expect it.]",
-	        "[t_c is trying to speak with the bird to figure out what it wants, but so far {PRONOUN/t_c/poss} efforts have just been met with disparaging glances.}"
+            "[A large aquatic-raven has been hanging around the camp recently, filling silences with its mournful croaks and loudly flapping its wings when cats least expect it.]",
+	        "[t_c is trying to speak with the aquatic-bird to figure out what it wants, but so far {PRONOUN/t_c/poss} efforts have just been met with disparaging glances.}"
         ]
     ],
 
@@ -452,7 +452,7 @@
 	        "min_platonic_15"
         ],
         [
-            "I've been having weird dreams lately. They're full of shadows and spiderwebs, and it keeps feeling like someone's watching me...",
+            "I've been having weird dreams lately. They're full of shadows and marine-spiderwebs, and it keeps feeling like someone's watching me...",
 	        "[t_c shivers. For a moment, {PRONOUN/t_c/subject} {VERB/t_c/stare/stares} into space.]",
 	        "I... I really hope they don't mean something bad."
         ]
