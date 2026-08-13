@@ -59,7 +59,7 @@
         "r_w2_neurotic": [
             "[t_c almost laughs.]",
             "r_w2_neurotic? Why?",
-            "That cat jumps every time they hear a woodpecker. And you think {PRONOUN/r_w2_neurotic/subject} killed fc_c?",
+            "That cat jumps every time they hear an aquatic-woodpecker. And you think {PRONOUN/r_w2_neurotic/subject} killed fc_c?",
             "Hm... now that you think about it, maybe that anxiety is all just an act... Oh, maybe {PRONOUN/r_w2_neurotic/subject}{VERB/r_w2_neurotic/'ve/'s} had us fooled this whole time!",
             "[t_c seems to be having a bit too much fun with this...]"
         ],
@@ -326,7 +326,7 @@
         [
             "Did dislike_fc_c_unabashed call my fur scruffy the night before {PRONOUN/dislike_fc_c_unabashed/subject} died? Yes. Have I made comments about wanting to kill {PRONOUN/dislike_fc_c_unabashed/object}? Absolutely.",
             "Did I <i>actually</i> murder dislike_fc_c_unabashed? One of our Clanmates? Absolutely not. If I see one more cat looking at me suspiciously...",
-            "[t_c stalks off, casting irritated looks across the camp.]"
+            "[t_c swim-stalks off, casting irritated looks across the camp.]"
         ]
     ],
     "unkmurder_focus_SQ19": [
@@ -503,7 +503,7 @@
         ],
         [
             "plike_fc_c... one of our Clanmates... was murdered...",
-            "[t_c sits with {PRONOUN/t_c/poss} back to a tree, watching the camp. {PRONOUN/t_c/subject/CAP} sniffle.]",
+            "[t_c sits with {PRONOUN/t_c/poss} back to a submerged-tree, watching the camp. {PRONOUN/t_c/subject/CAP} sniffle.]",
             "Isn't it my job to notice tensions and stop them before something bad happens?",
             "I should've seen something. I should've been a good enough mediator to keep plike_fc_c safe!"
         ]
@@ -941,7 +941,7 @@
         "r_w2_neurotic": [
             "[t_c almost laughs.]",
             "r_w2_neurotic? Why?",
-            "That cat jumps every time they hear a woodpecker. And you think {PRONOUN/r_w2_neurotic/subject} killed fc_c?",
+            "That cat jumps every time they hear an aquatic-woodpecker. And you think {PRONOUN/r_w2_neurotic/subject} killed fc_c?",
             "Hm... now that you think about it, maybe that anxiety is all just an act... Oh, maybe {PRONOUN/r_w2_neurotic/subject}{VERB/r_w2_neurotic/'ve/'s} had us fooled this whole time!",
             "[t_c seems to be having a bit too much fun with this...]"
         ],
@@ -972,9 +972,9 @@
         [
             "Hey, y_c. Did you hear about the monster?",
             "Yup. There's a monster in camp. It killed neutral_fc_c. It might get you next.",
-            "Don't worry, though. I'll protect you... if you can sneak me some honey from the medicine den.",
+            "Don't worry, though. I'll protect you... if you can sneak me some sea-honey from the medicine den.",
             "What? I don't work for free. Go on!",
-            "[You turn to run for the medicine den. A little bit of stolen honey is a small price to pay for protection from the monster!]"
+            "[You turn to run for the medicine den. A little bit of stolen sea-honey is a small price to pay for protection from the monster!]"
         ]
     ],
     "unknown_murder_J4": [
@@ -1420,7 +1420,7 @@
         ],
         [
             "[As you approach t_c, you hear {PRONOUN/t_c/object} mumbling to {PRONOUN/t_c/self}.]",
-            "rsh_c? No, no, {PRONOUN/rsh_c/subject} wouldn't dare do it so soon. What about dislike_r_c1_unlawful... gah {PRONOUN/dislike_r_c1_unlawful/subject} may be a hanARul, but I trust {PRONOUN/dislike_r_c1_unlawful/object} more than r_c2_brooding... but r_c2_brooding wouldn't do something like this either...",
+            "rsh_c? No, no, {PRONOUN/rsh_c/subject} wouldn't dare do it so soon. What about dislike_r_c1_unlawful... gah {PRONOUN/dislike_r_c1_unlawful/subject} may be a pawful, but I trust {PRONOUN/dislike_r_c1_unlawful/object} more than r_c2_brooding... but r_c2_brooding wouldn't do something like this either...",
             "[You decide to leave t_c alone as {PRONOUN/t_c/poss} mumbles turn frustrated.]"
         ]
     ],
