@@ -484,7 +484,7 @@
             "I really miss {PRONOUN/d_c/object} sometimes, you know?",
             "[t_c looks at {PRONOUN/t_c/poss} portion of the prey and {VERB/t_c/paw/paws} it away with a sigh.]",
             "[After a moment of silence, you perk up and ask t_c what d_c's favorite prey was.]",
-            "Oh... d_c didn't have a favorite. {PRONOUN/d_c/subject/CAP} {VERB/d_c/were/was} always eating everything in front of {PRONOUN/d_c/object}. Bird, mouse, fish... you name it.",
+            "Oh... d_c didn't have a favorite. {PRONOUN/d_c/subject/CAP} {VERB/d_c/were/was} always eating everything in front of {PRONOUN/d_c/object}. aquatic-bird, aqua-mouse, fish... you name it.",
             "[t_c takes a shaky inhale and laughs quietly. The memory of d_c is still strong and thriving, but it doesn't mean it hurts any less.]"
         ]
     ],
@@ -882,7 +882,7 @@
         [
             "Hey, y_c! Guess what I saw on patrol today!",
             "I think I saw a blue mist. I think they call it a will-o'-the-wisp.",
-            "You see, I got a tiny bit lost while I was patrolling. No fault of mine, of course! I was just observing a rabbit and forgot where I was.",
+            "You see, I got a tiny bit lost while I was patrolling. No fault of mine, of course! I was just observing a aquatic-rabbit and forgot where I was.",
             "[You ask teasingly if that is a daily occurrence and t_c only smiles wide.]",
             "Anyway-- As I was starting to get worried, poof! A blue mist appeared right before my very eyes, whispering words I couldn't understand. Behind it was a line of them, leading me somewhere.",
             "I don't know why I did it, but I followed the wisps. They disappeared when I got close to them, floating into the clouds above me. It was so cool to see!",
@@ -1221,7 +1221,7 @@
             "[You drop the herbs at t_c's paws and gently lick {PRONOUN/t_c/poss} ear, asking if there's anything you can to to make {PRONOUN/t_c/object} better.]",
             "... Psst, y_c. I'm not really sick, dummy. I'm just faking to get out of cleaning my nest.",
             "Here, want me to show you how? It's super easy. Just roll around a lot and scream about how you ate something bad.",
-            "Oh, mouse-dung, here comes r_q! Act natural!",
+            "Oh, aqua-mouse-dung, here comes r_q! Act natural!",
             "<i>Ahhhh, it hurts so bad!!!</i>"
         ]
     ],
@@ -2288,7 +2288,7 @@
             "they_blind"
         ],
         [
-            "I'm not a silly enough mouse for this!"
+            "I'm not a silly enough aqua-mouse for this!"
         ]
     ],
     "silly_murder_forgiveness": [
@@ -2491,7 +2491,7 @@
             "they_blind"
         ],
         [
-            "[t_c harmonises with the birdsong around you.]",
+            "[t_c harmonises with the aquatic-birdsong around you.]",
             "[Your life in StarClan always has a soundtrack!]"
         ]
     ],
@@ -2585,7 +2585,7 @@
         ],
         [
             "[Since t_c didn't like the flower you tried to give {PRONOUN/t_c/object} before, you approach {PRONOUN/t_c/object} this time with a different gift.]",
-            "What's this? A feather?",
+            "What's this? A aquatic-feather?",
             "Did you get that from the fresh-kill pile? You're not supposed to be getting your own prey.",
             "[t_c must not understand what a gift is...]"
         ]
@@ -3086,7 +3086,7 @@
             "min_trust_15"
         ],
         [
-            "Oh, StarClan, did r_m_brooding call yet another patient a mousebrain? *Sigh* They sure tend to do that a lot ...",
+            "Oh, StarClan, did r_m_brooding call yet another patient a aqua-mousebrain? *Sigh* They sure tend to do that a lot ...",
             "Try not to take it too personally, y_c. I know their methods may seem ... unorthodox, but r_m_brooding really isn't a bad cat. They just want to keep everyone safe.",
             "And if scaring cats stiff out of the medicine den is what it takes ... Well, then that's just what they'll do."
         ]
@@ -3099,7 +3099,7 @@
             "min_trust_15"
         ],
         [
-            "Oh, StarClan, did r_d_brooding call yet another Clanmate a mousebrain? *Sigh* They sure tend to do that a lot ...",
+            "Oh, StarClan, did r_d_brooding call yet another Clanmate a aqua-mousebrain? *Sigh* They sure tend to do that a lot ...",
             "Try not to take it too personally, y_c. I know their methods may seem ... unorthodox, but r_d_brooding really isn't a bad cat. They just want to keep everyone safe.",
             "And if scaring cats stiff into confronting their problems is what it takes ... Well, then that's just what they'll do."
         ]
@@ -3158,7 +3158,7 @@
         ],
         [
             "Y'know, r_w_cool's a decent hunter and fighter and all, but if you ask me, {PRONOUN/r_w_cool/poss} real talent is how {PRONOUN/r_w_cool/subject} {VERB/r_w_cool/deal/deals} with {PRONOUN/r_w_cool/poss} Clanmates.",
-            "I swear, the cat's got a silver tongue ... {PRONOUN/r_w_cool/subject/CAP} could probably talk a mouse into {PRONOUN/r_w_cool/poss} claws and get it to thank {PRONOUN/r_w_cool/object} on the way out!",
+            "I swear, the cat's got a silver tongue ... {PRONOUN/r_w_cool/subject/CAP} could probably talk a aqua-mouse into {PRONOUN/r_w_cool/poss} claws and get it to thank {PRONOUN/r_w_cool/object} on the way out!",
             "I wonder why {PRONOUN/r_w_cool/subject} didn't choose to become a mediator? {PRONOUN/r_w_cool/subject/CAP}{VERB/r_w_cool/'re/'s} certainly skilled enough to!"
         ]
     ],
@@ -3301,7 +3301,7 @@
         ],
         [
             "You ever notice how plike_r_c_introspective doesn't say much, but when {PRONOUN/plike_r_c_introspective/subject} {VERB/plike_r_c_introspective/do/does}, it's, like, the smartest thing you've ever heard?",
-            "I swear, {PRONOUN/plike_r_c_introspective/subject}{VERB/plike_r_c_introspective/'re/'s} like a StarClan cat reincarnated, {PRONOUN/plike_r_c_introspective/subject}{VERB/plike_r_c_introspective/'re/'s} so wise. If I had a brain like that, I wouldn't be able to stand living in this Clan, every other cat would seem so mouse-brained!",
+            "I swear, {PRONOUN/plike_r_c_introspective/subject}{VERB/plike_r_c_introspective/'re/'s} like a StarClan cat reincarnated, {PRONOUN/plike_r_c_introspective/subject}{VERB/plike_r_c_introspective/'re/'s} so wise. If I had a brain like that, I wouldn't be able to stand living in this Clan, every other cat would seem so aqua-mouse-brained!",
             "Maybe that's why {PRONOUN/plike_r_c_introspective/subject}{VERB/plike_r_c_introspective/'re/'s} by {PRONOUN/plike_r_c_introspective/self} so often ... {PRONOUN/plike_r_c_introspective/subject/CAP} just can't stand all of the chatter."
         ]
     ],
@@ -3380,7 +3380,7 @@
         ],
         [
             "StarClan, neutral_r_w_neurotic messed up my patrol <i>again!</i>",
-            "I don't get it! {PRONOUN/neutral_r_w_neurotic/subject/CAP} {VERB/neutral_r_w_neurotic/were/was} a whisker length away from that bird! Why not just pounce on it?",
+            "I don't get it! {PRONOUN/neutral_r_w_neurotic/subject/CAP} {VERB/neutral_r_w_neurotic/were/was} a whisker length away from that aquatic-bird! Why not just pounce on it?",
             "The whole 'scaredy nervous' routine might have been cute for a while, but once it starts interfering with Clan business, that's where I draw the line.",
             "neutral_r_w_neurotic had better toughen up, quick, or get back to the nursery."
         ]
