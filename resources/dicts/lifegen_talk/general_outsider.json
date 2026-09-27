@@ -449,7 +449,7 @@
             "any"
         ],
         [
-            "[t_c is staring at {PRONOUN/t_c/poss} surroundings, eyes wide as {PRONOUN/t_c/subject} {VERB/t_c/watch/watches} starry-pelted cats walk by. Suddenly, {PRONOUN/t_c/subject} {VERB/t_c/turn/turns} to you, seemingly surprised.]",
+            "[t_c is staring at {PRONOUN/t_c/poss} surroundings, eyes wide as {PRONOUN/t_c/subject} {VERB/t_c/watch/watches} starry-pelted cats swim by. Suddenly, {PRONOUN/t_c/subject} {VERB/t_c/turn/turns} to you, seemingly surprised.]",
             "Oh! y_c! Are you -- No, it's not your time yet.",
             "[You slowly recognize that this is a cat that you've never seen nor heard of before. You gently question why {PRONOUN/t_c/subject}{VERB/t_c/'re/'s} here.]",
             "I don't know, but no one seems to mind.",
@@ -528,7 +528,7 @@
             "they_deaf"
         ],
         [
-            "[You're sitting alone in camp, your focus occupied by a ladybug crawling on a leaf in front of you.]",
+            "[You're sitting alone in camp, your focus occupied by an aquatic-ladybug crawling on a leaf in front of you.]",
             "[Suddenly, a ghostly paw pokes its way into your view and waves! When you turn, t_c is signing an apology.]",
             "[Oh. Apparently it was hard to get your attention when {PRONOUN/t_c/poss} paw passes right through you!]"
         ]
@@ -555,7 +555,7 @@
         ],
         [
             "[While sunbathing in camp, you feel your temperature drop.]",
-            "[t_c must be walking past.]"
+            "[t_c must be swimming past.]"
         ]
     ],
     "deaf_ur_J5": [
@@ -568,7 +568,7 @@
         ],
         [
             "[While laying in camp, trying your best to fall asleep, you feel your temperature drop.]",
-            "[t_c must be walking past.]"
+            "[t_c must be swimming past.]"
         ]
     ],
     "deaf_ur_J6": [
@@ -582,7 +582,7 @@
         ],
         [
             "[While laying in camp, trying your best to fall asleep, you feel your temperature drop.]",
-            "[t_c must be walking past.]"
+            "[t_c must be swimming past.]"
         ]
     ],
     "deaf_sc_Guy1": [
